@@ -1,0 +1,911 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fourth principle of Christian religion: or, the foundation doctrine of laying on of hands. Asserted and vindicated by way of answer to such arguments as by Lieutenant Colonel Paul Hobson have been presented against this Gospel ordinance. Affectionately tendred to such enquiring souls as are desirous throughly to forsake Babylon notion an humane tradition, and by universall obedience to follow the lamb in all his righteous appointments. / By Tho. Tillam a minister of Jesus Christ.</title>
+            <author>Tillam, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 146 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94351</idno>
+            <idno type="STC">Wing T1165</idno>
+            <idno type="STC">Thomason E850_9</idno>
+            <idno type="STC">ESTC R207403</idno>
+            <idno type="EEBO-CITATION">99866457</idno>
+            <idno type="PROQUEST">99866457</idno>
+            <idno type="VID">118732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118732)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E850[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fourth principle of Christian religion: or, the foundation doctrine of laying on of hands. Asserted and vindicated by way of answer to such arguments as by Lieutenant Colonel Paul Hobson have been presented against this Gospel ordinance. Affectionately tendred to such enquiring souls as are desirous throughly to forsake Babylon notion an humane tradition, and by universall obedience to follow the lamb in all his righteous appointments. / By Tho. Tillam a minister of Jesus Christ.</title>
+                  <author>Tillam, Thomas.</author>
+               </titleStmt>
+               <extent>[6], 61, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.C. for Henry Eversden, and are to be sold by William Hucheson of Durham,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M.DC.LV. [1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spiritual healing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118732:1" rendition="simple:additions"/>
+            <p>THE FOURTH PRINCIPLE OF Chriſtian Religion: OR, The <hi>FO<g ref="char:V">Ʋ</g>NDATION DOCTRINE</hi> OF Laying on of Hands. Aſſerted and Vindicated by way of Anſwer to ſuch Arguments as by Lieutenant Colonel <hi>Paul Hobſon</hi> have been preſented againſt this Goſpel Ordinance. Affectionately tendred to ſuch enqui<g ref="char:EOLhyphen"/>ring ſouls as are deſirous throughly to forſake <hi>Babylon</hi> notion and humane tradition, and by univerſall obedience to follow the Lamb in all his righteous appointments. <hi>By</hi> THO. TILLAM <hi>a Miniſter of Jeſus Chriſt.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 102.13, 14.</hi>
+               </bibl>
+               <p>Thou ſhalt ariſe, and have mercy upon Zion: for the time to favour her, yea the ſet time is come.</p>
+               <p>For thy ſervants take pleaſure in her ſtones, and favour the duſt thereof.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. C.</hi> for <hi>Henry Everſden,</hi> and are to be ſold by <hi>William Hucheſon</hi> of <hi>Durham</hi> M.DC.LV.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118732:2"/>
+            <pb facs="tcp:118732:2"/>
+            <head>To all the eſpouſed Virgins of the Prince of Peace, whether Perſons or Churches, with ſuch pretious panting Spirits as are breathing after his Divine embraces.</head>
+            <opener>
+               <salute>Heirs of Glory,</salute>
+            </opener>
+            <p>WHatſoever be your outward ſtate, yet ſince the diſtinguiſhing love of God hath enrich<g ref="char:EOLhyphen"/>ed you with grace, I dare confidently (as his Ambaſſadour) ſalute you with peace, even that peace which the world can neither give nor take away; the peace of God that paſſeth all underſtanding, ſuch peace as unbelieving diſobedient ones never taſted, neither can enjoy. For however the Prince of darkneſſe transforming himſelf into an Angell of light, doth now more then ever, by ſtrong deluſions Captivate thou<g ref="char:EOLhyphen"/>ſands in his airy region, where fancied ſpirituall enjoy<g ref="char:EOLhyphen"/>ments poſſeſſe them with vehement deſires to their con<g ref="char:EOLhyphen"/>ceited Paradiſe: Yet alas!
+<note place="margin">Iſa. 44.20.</note> 
+               <hi>True peace is a meer ſtranger, they feed upon aſhes, deceived hearts have tur<g ref="char:EOLhyphen"/>ned them aſide, that they cannot deliver their ſouls, nor ſay, Is there not a lie in my right hand?</hi> While they boaſt of perfection, light, infallibility, the enemy hath ſtoln their hearts from Evangelicall obedience. I would in a word warn your pretious ſouls (<hi>ye who deſire to obey from the heart that forme of Doctrine which was delivered you</hi>) beware of the great deceit of theſe dayes,
+<note place="margin">Rom. 6.17.</note>
+               <pb facs="tcp:118732:3"/>wherewith Satan deceiveth multitudes, to a ſleighting that wholeſome form of ſound words; and in the mean time leads them by the noſes into the moſt piti<g ref="char:EOLhyphen"/>full formes that ever were invented, as putting off the hat, bowing the knee, ſaying, Sir, Maſter, Lord, thou, and ſuch like. And ſuch as differ from them about theſe gnats, ſhall preſently diſcern the ſerpents ſting full of deadly poyſon, denouncing Wrath, Woe, Dam<g ref="char:EOLhyphen"/>nation, all the plagues of God. But for the precious or<g ref="char:EOLhyphen"/>dinances of Chriſt, as Baptiſme, Church fellowſhip, Love-feaſts, waſhing of feet, breaking of bread, ſing<g ref="char:EOLhyphen"/>ing of Pſalmes, Impoſition of hands, Church officers, Sabbath, Lords day, Anointing with oil, Holy kiſſe, Chriſtian ſalutes, Cenſures and ſuch like, their very ſouls abhor them, and their preſumptuous tongues dare curſe the pretious ſaints that uſe them. But ye beloved, building up your ſelves on your moſt holy faith,
+<note place="margin">Jude <hi>v.</hi> 10, 21.</note> pray<g ref="char:EOLhyphen"/>ing in the Holy Ghoſt, keep your ſelves in the love of God, waiting for the ſecond coming of Jeſus Chriſt, in all the wayes he hath appointed. Be not found in the fire of fooliſh Virgins when the Bridegroom comes, but labour to ſtand compleat in all the will of God, lacking nothing. To this end I here preſent you with a pretious Ordinance of Chriſt, oppoſed by many profeſ<g ref="char:EOLhyphen"/>ſors; and particularly by a Northern Gent. a Preacher, whoſe arguments I do profeſſe ſhould never have recei<g ref="char:EOLhyphen"/>ved anſwer by me, had not ſome boaſted, that becauſe they were not, therefore they could not be anſwered. Whereupon at the earneſt deſires of ſome choiſe ſpirits I did engage, with purpoſe to confine my ſelf to a narrow compaſſe, ſuch as might be eaſily copied; but the enlargements of that holy Spirit who is variouſly communicated through this Ordinance of Hands, hath
+<pb facs="tcp:118732:3"/>put me upon the neceſſity of making it more publick: with which purpoſe I did acquaint my Antagoniſt that if he pleaſed he might alter any thing of forme in his arguments; but after ſeverall weeks expectation, I heard of his abſence far from home, ſo that my occaſi<g ref="char:EOLhyphen"/>ons, and preſent opportunities of the Preſſe have enga<g ref="char:EOLhyphen"/>ged me to publiſh the Gent. Arguments as they were firſt preſented, with my anſwer thereunto. And now the God of truth, accompany his own Precept with his own preſence, for the confirmation of thoſe obe<g ref="char:EOLhyphen"/>dient ſouls who have greatly honoured Chriſt by early ſubmiſſion. For the information of thoſe pretious Spirits who are weeping and ſeeking the way to Sion, with their faces thitherwards. And for the mitigation of that bitter perſecuting, harſh impoſing, imperious ſpirit, that ſo greatly rageth in many profeſſors againſt the practice of this duty. O that darkneſſe might be diſpel'd, and the true light ſhine in profeſſors ſpirits, lips, and lives! Let all that fear Chriſt beware of reſting in that light ſo much cryed up by deluded ſouls. The light in the naturall man will never ſave him, no nor ſo much as ſhew him what he ought to do (as a Chriſti<g ref="char:EOLhyphen"/>an) No wonder then that thoſe who ſo cry up that light, live in ſuch groſſe diſobedience to Goſpell Ordinances. But if natures higheſt attainers will know what they ought to do, <hi>Act.</hi> 10.6. if they would be told words whereby they may be ſaved, <hi>Act.</hi> 11.14. they muſt not be ſent to the light within (as deceivers ſay) but they muſt ſend for a Goſpell miniſter to tell them words. But thoſe that cry up the light in the Conſcience, are enemies to thoſe words of Scripture. Alas pitifull dark ſoules! they know no light but that which lighteth every man that cometh into the world;
+<note place="margin">Joh. 1.5.</note> but thy pretious
+<pb facs="tcp:118732:4"/>ſoul (thou Spouſe of Chriſt) canſt witneſſe the Goſpell light that lightneth every man that cometh out of the world,
+<note place="margin">Joh. 15.19.</note> by religious ſeparation, not by a voluntary Po<g ref="char:EOLhyphen"/>piſh humiliation. The former is a true light but natu<g ref="char:EOLhyphen"/>rall; the latter light is truly evangelicall. And this light is communicated through the Word and Ordi<g ref="char:EOLhyphen"/>nances, and particularly, through this holy Ordinance of <hi>Laying on of hands</hi>
+               <note place="margin">Pſal. 119.130.</note>
+               <note n="*" place="margin">Act. 9.17.</note>, to which light I leave thy enquiring ſoul, to illuminate thy underſtanding in the knowledge of this Ordinance, that through obedience to it thou mayeſt have more light, to conduct thee into everlaſting life, through Chriſt thy King; for whoſe ſake I am thy ſervant.</p>
+            <closer>
+               <signed>Tho. Tillam.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:118732:4"/>
+            <div type="part">
+               <head>This Queſtion it ſeems was propoun<g ref="char:EOLhyphen"/>ded to the Gent.</head>
+               <q>
+                  <hi>WHether the laying on of hands upon all Believers be a ſtanding Ordinance to continue in the Church of Christ, and to be practiſed now by the Miniſters of Chriſt, yea or no.</hi>
+               </q>
+               <p>To which he returned theſe lines.</p>
+               <p>Your Quere doth not at all relate to the uſe of Laying on of hands for the deſigning of fit ſubjects to Offices, ac<g ref="char:EOLhyphen"/>cording to theſe Scriptures, <hi>Act.</hi> 6.16. &amp; 13.3. 1 <hi>Tim.</hi> 4.14. &amp; 5.22. Nor to your laying hands upon the ſick accor<g ref="char:EOLhyphen"/>ding to theſe Scriptures, <hi>Jam.</hi> 5.14. <hi>Act.</hi> 28.8. Therefore in my anſwer I ſhall minde neither of them, but ſingly your Quere as ye lay it down (which is) <hi>Whether hands are to be laid upon all believers as believers without relating to an Office be a ſtanding Ordinance in the Church of Chriſt, Yea or No.</hi>
+               </p>
+               <p>My anſwer to it briefly is, That I judge it not a ſtanding Ordinance, and my grounds are theſe.</p>
+               <p>The firſt is taken from the unwarrantable foundation of ſuch an act.</p>
+               <p>Secondly, The ſad abſurdities that will come up<g ref="char:EOLhyphen"/>on it.</p>
+               <p>
+                  <label>For the firſt.</label>I. Where we have no command given out by Chriſt to his Church for a practiſe, there the Church hath no ground to continue a practiſe; but there is no command given forth by God or Chriſt to the Church of Chriſt for the laying on of hands upon all Diſciples. Therefore there is no ground to continue that practiſe.</p>
+               <p>The Major Propoſition is proved from theſe Scriptures, <hi>Iſa.</hi> 1.12. &amp; 8.20. <hi>Ezek.</hi> 43.7. <hi>Job.</hi> 15.14. <hi>Rom.</hi> 4.15. <hi>Levit.</hi> 10.1, 2. applyed to the 13. <hi>v. Enod.</hi> 13.5.</p>
+               <pb n="2" facs="tcp:118732:5"/>
+               <p>If any ſhall queſtion the minor, I ſhould be glad to ſee their proof. If any ſay it is proved in <hi>Heb.</hi> 5.12. with <hi>Heb.</hi> 6.2. where it is called, An oracle of God. And ſome have from that indevoured to prove Oracles and Commands both one. I ſhall ſay little to the reaſons, but refer the Reader to the juſtifying of the proof.</p>
+               <p>And how inconſiſtent the application of thoſe Scri<g ref="char:EOLhyphen"/>ptures they bring, are to make good this particular, to wit, Laying on of hands upon all believers, and that by them that are bare Miniſters. Now though it be not proper for any to prove negatives, yet ſomething I muſt ſay to them that go about to maintain this practiſe from that Scri<g ref="char:EOLhyphen"/>pture.</p>
+               <p>Firſt, I would have you conſider that all that is ſaid by them from hence is but a ſuppoſition, and a ſuppoſition is not a ſufficient foundation for the continuation of any thing that is called a Goſpell Ordinance. And that it is but a ſuppoſition is clear, if ye read but the Arguments of them that paraphraſe upon that Scripture, and conſider well the Scripture it ſelf, <hi>Heb.</hi> 5.12. applyed with <hi>Heb.</hi> 6.2.</p>
+               <p>Secondly, It is not only a ſuppoſition, but a doubtfull ſuppoſition, for it is more probable that the Laying on of hands by the Apoſtles upon any that were bare Diſciples, was rather concluded in that word in the firſt part of the ſecond <hi>verſe</hi> of the 6. of the <hi>Heb.</hi> concerning Baptiſmes; then that which the Apoſtle ſpeaks in the ſecond <hi>verſ.</hi> con<g ref="char:EOLhyphen"/>cerning laying on of hands; for if this be not one of the Baptiſmes that was here expreſſed in this Scripture, <hi>Heb.</hi> 6.2. I ſhould gladly know how they would make up Baptiſms according to this Scripture, <hi>Heb.</hi> 6.2. for that if you will conſider all the caſe is doubtfull, and whether a doubtfull ſuppoſition be a ſufficient foundation to bear up an act as a Church Ordinance, we leave it to any ſoul to judge. So that the minor is as well true as the major, then the conclu<g ref="char:EOLhyphen"/>ſion muſt follow.</p>
+               <p>
+                  <hi>Object.</hi>
+                  <note place="margin" type="runSum">Object.</note>If the Apoſtles did it, we have a command for it, for we are commanded to follow them, 1 <hi>Cor.</hi> 4.14. 1 <hi>Cor.</hi> 10.1.</p>
+               <pb n="3" facs="tcp:118732:5"/>
+               <p>
+                  <hi>Anſw.</hi> In anſwer to this conſider theſe things.</p>
+               <p>Firſt, Thoſe that object do not, nor cannot follow the Apoſtles in their works of Miracles.</p>
+               <p>Secondly, The two Scriptures, and ye will ſee, it doth not at all make good what they intend.</p>
+               <p>For the firſt place, 1 <hi>Cor.</hi> 4.16. the Apoſtle there doth not intend following him in all things, but he exhorts them from falſe Apoſtles to follow him that is his teaching, and that teaching which he had preached to them, and in all the Churches; that you will ſee if you read the 15. <hi>v.</hi> But the Laying on of hands upon all diſciples he taught in no Church nor to them.</p>
+               <p>Now to the ſecond Scripture, 1 <hi>Cor.</hi> 11.1.</p>
+               <p n="1">1. To that is,
+<note place="margin" type="runSum">Anſw.</note>that the Apoſtle did not intend acts of pow<g ref="char:EOLhyphen"/>er, as this is, but acts of imitation, for it is the ſame word of the Apoſtle hath in <hi>Eph.</hi> 5.1. where we are commanded to be followers of God as dear children. Now none are ſo ignorant as to think we are commanded to follow God in acts of power. But in imitable acts anſwering the com<g ref="char:EOLhyphen"/>mands of Chriſt, and the practiſes of the Churches. But there is, as we ſaid before, neither a command from Chriſt, nor any practiſe of the Churches that we can read of for Laying on of hands upon all Diſciples, but it was properly an act of power, <hi>Act</hi> 8.19. &amp; 19.6.</p>
+               <p n="2">2. That which we have no example from the practiſe of the primitive Churches, we have now no ground to practiſe now. But we have no preſident in the primitive Churches that ever Laying on of hands was practiſed upon all believers, by them that were not Apoſtles; therefore there is no ground for that practiſe. Now the Major propoſition none will deny; and as for the Minor, it will clearly appear if ye conſider,</p>
+               <p n="1">1. That we have no Scripture that ever hands were laid upon bare believers; two Scriptures <hi>Act.</hi> 8.17. &amp; 19.6. and no other Scriptures declares, that that act was performed either then, afterwards, or before; and I am confident that if you with a ſingle heart deſire to ſee truth, as it is expreſt and intended, you will ſee no foundation to warrant ſuch an act as the Laying on of hands upon all believers, by the Mini<g ref="char:EOLhyphen"/>ſters
+<pb n="4" facs="tcp:118732:6"/>of the Churches to be a ſtanding Ordinance, and that you will clearly ſee if ye mind theſe things. 1. Who did it. 2. Upon whom. 3. Why.</p>
+               <p>Firſt, By whom, it was by the Apoſtle and no other, if any ſhould be ſo abſurd as to ſay, What the Apoſtles did we are commanded to do, though we have no command for it, nor practiſe in the primitive Churches. To that I anſwer, If the bare examples of the Apoſtles without a command doth bind in any thing, then in every thing; the great abſurdities that will follow upon that, you will clearly ſee, if ye view well theſe Scriptures, <hi>Act.</hi> 3.1, 2, 3, 4, 5. &amp; 16.3, 21, 26.</p>
+               <p>Secondly, Minde upon whom it was done, they were a people ignorant of and ſtrangers to the Holy Ghoſt, as you will ſee if you read the ſaid Scripture <hi>Act.</hi> 19.2. and alſo the forementioned Scripture. But where you read of ſo many thouſands as was converted <hi>Act.</hi> 2.41. ſo many at another time <hi>Act.</hi> 4.4. nay if ye read over all the practiſes of the Church of <hi>Corinth,</hi> the Church of <hi>Rome,</hi> or the Church of <hi>Theſſalonica,</hi> or any other Churches, that were ſetled, ye ſhall never ſee any ſuch practiſes amongſt them.</p>
+               <p>Thirdly, It was not as men pretend in theſe dayes to put men in expectation of the Holy Ghoſt to wait for him in this practiſe. But it was abſolutely to communicate the Holy Ghoſt in and by the action, <hi>Act.</hi> 8.14. &amp; 19.6.</p>
+               <p>Now we might ſpeak much more to the minor propoſiti<g ref="char:EOLhyphen"/>on, were it proper to ſpeak much to negatives, but that which hath been ſaid is ſufficient to manifeſt the truth of the Minor, therefore the concluſion followeth.</p>
+               <q>The ſecond thing is the Abſurdities that of neceſſitie muſt follow ſuch an unwarrantable practiſe.</q>
+               <p>The firſt abſurditie is, they lay unfaithfulneſſe upon Jeſus Chriſt,
+<note place="margin">Exod. 25.8, 9, &amp; 40. verſ. Heb. 8.5.</note> croſſing this Scripture, <hi>Heb.</hi> 3.2. and advancing <hi>Moſes</hi> above Chriſt, for <hi>Moſes</hi> who was but a ſervant of God to de<g ref="char:EOLhyphen"/>clare the order and forme of Gods houſe never left any to act upon doubtfull ſuppoſitions, but gives them a particular command for every ordinance that was to abide in Gods houſe.</p>
+               <pb n="5" facs="tcp:118732:6"/>
+               <p>The ſecond Abſurdity is, They lay a lie upon <hi>Paul,</hi> he ſayes that he had declared the whole counſell of God to the Church, <hi>Act.</hi> 20.27. and yet never did deliver this to the Mi<g ref="char:EOLhyphen"/>niſters of Chriſt to lay hands upon all Diſciples, which if they ſay is a truth, then they lay an untruth upon <hi>Paul.</hi>
+               </p>
+               <p>The third Abſurdity is, They cannot do it in faith, there<g ref="char:EOLhyphen"/>fore ſinfull, unleſſe it be an imaginary faith. All acts done in faith have a command for it, or a promiſe to meet God in it. But in this they have neither.</p>
+               <p>The fourth Abſurdity is, It brings them out of a capacity to anſwer this Scripture 1 <hi>Pet.</hi> 3.15. In being able alwayes to give a reaſon of the faith or hope that is in them, that ſo gainſayers mouths might be ſtopped. Now to maintain an act from nothing but ſuppoſition, can never ſtop the mouths of gainſayers; for ſuppoſition is as ſtrong in the one as in the other, and is ſo far from convincing any, that it pro<g ref="char:EOLhyphen"/>duceth diſputes in all.</p>
+               <p>There is two things to be conſidered in the Acts of the Apoſtles, which were glorious diſcoveries of the power and authority of Chriſt in the ſettlement of the Goſpell, which theſe men do directly croſſe who are bare imitators of the act, but cannot carry on the end.</p>
+               <p>The firſt is, The Apoſtles had power before to preach and Baptize with water, yet before they did this, they muſt wait for power, and that an eminent and glorious power at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem, Luk.</hi> 24.49.</p>
+               <p>Secondly, When they did do it, it was ſo done that no men as men could imitate it, that made <hi>Simon</hi> ſo amazed. <hi>Act.</hi> 8.18, 19.</p>
+               <p>Now theſe men that thus plead and endevour thus to pra<g ref="char:EOLhyphen"/>ctiſe, have neither waited for power, nor yet have received that power, and what they do as their imitating the act without carrying on the end, which is the eſſence of the act, in that thing men as men may do. And what an abſurd thing this is, let them that fear the Lord, and love the glorious diſcoveries of his power and authority in the ſettlement of the Goſpell, judge.</p>
+               <p>Now dear friends I deſire you in the fear of the Lord ſeri<g ref="char:EOLhyphen"/>ouſly to minde not only what hath been ſaid, as to the un<g ref="char:EOLhyphen"/>warrantableneſſe
+<pb n="6" facs="tcp:118732:7"/>of ſuch an act, and the abſurdities it doth produce; but further conſider theſe few conſiderations that I ſhall in Chriſtian love preſent to you who own and practiſe ſuch a thing.</p>
+               <p>Firſt, Conſider how injurious you are to Jeſus Chriſt, which you will ſee if ye mind well the fift abſurdity,
+<note place="margin">Act. 8.18, 19. &amp; 19.5, 6, 7.</note> Chriſt bringing forth an act to ſhew his power, you imitate the act and have not the power; ſo turnes acts of power into a bare imitation, and ſo are injurious to Chriſts intention.</p>
+               <p>Secondly, Conſider how you put your ſelves under the reproof of God, <hi>Iſa.</hi> 1.12. when he ſhall ſay, Who hath re<g ref="char:EOLhyphen"/>quired theſe at your hands? ſhould you then bring that place of Scripture, <hi>Heb.</hi> 6.2. and if God demands, How ye know he did intend the Laying on of hands upon all Diſciples in that place, you can only ſay, you think ſo. And what a ſad thing is that? How juſtly do you come under Gods reproof?</p>
+               <p>Thirdly, Conſider not only in your acting how unlike all the primitive Churches you are, but alſo unlike <hi>Philip</hi> you are <hi>Act.</hi> 8.12, 13. though he was able to work miracles, and in many things beyond you, yet when he had Baptized with water, he left the Laying on of hands to the Apoſtles, <hi>Act.</hi> 8.14, 15, 16, 17.</p>
+               <p>Fourthly, Conſider the great danger of turning acts of power, into bare imitation and want the power, ſee <hi>Act.</hi> 19.13, 14, 15, 16. <hi>Exod.</hi> 7.8, 9, 10, 11, 12, 13. &amp; 8.16, 17, 18, 19.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:118732:7"/>
+               <head>The Fourth Principle OF <hi>CHRISTIAN RELIGION:</hi> OR, The FOUNDATION DOCTRINE OF Laying on of Hands. Aſſerted and Vindicated by way of Anſwer to theſe Arguments.</head>
+               <q>THE Gents. firſt ground, Why the Foundation Principle of Laying on of Hands, is not a ſtanding Ordinance, he taketh (as he ſaith) <hi>From the unwar<g ref="char:EOLhyphen"/>rantable foundation of ſuch an act.</hi>
+               </q>
+               <div type="subpart">
+                  <p>To which in Chriſts ſtrength I anſwer.</p>
+                  <p>That it's to me a Paradox, that a Foundation Principle of Chriſtianity, ſhould want a warrantable foundation. How then can Chriſt be accounted faithfull in all his houſe, even
+<pb n="8" facs="tcp:118732:8"/>as <hi>Moſes</hi> was, if he hath ſhewed-himſelf ſuch a fooliſh builder to raiſe a ſuperſtructure upon an unwarrantable foundation?
+<note place="margin">Heb. 3.2.</note> 
+                     <hi>Moſes</hi> never left his houſe in ſuch a pitifull plight.</p>
+                  <p>The Lord Chriſt timely expoſtulates with ſuch as will give him the hearing,
+<note place="margin">Luk. 6.46.</note> but will not do the things that he ſayes; and ſuch this age abounds with, that grant this Foun<g ref="char:EOLhyphen"/>dation principle to be the teaching, ſaying, or doctrine of Chriſt, but it's only to be learned, not to be practiſed. But I am ſure this aſſertion hath none other then an unwarrantable ſandy foundation, which this interrogatory muſt needs overturn, <hi>Why call ye me Lord, Lord, and do not the things which I ſay?</hi> Whereas the man which Chriſt commands, <hi>digged deep, and laid the foundation upon a rock,</hi> and ſuch a foundation have the Six Principles of Chriſtian Religion, and every one of them, for they are plainly called <hi>Foundation Principles,</hi> which all the riſing flouds,
+<note place="margin">Luk. 6.48.</note> and vehement ſtreams of oppo<g ref="char:EOLhyphen"/>ſition ſhall never be able to ſhake, <hi>for they are all founded upon a rock,</hi> and the rock is Chriſt: <hi>
+                        <g ref="char:V">Ʋ</g>pon this rock will I build my Church, and the gates of hell ſhall not prevail againſt it.</hi>
+                  </p>
+                  <p>The Gent.
+<note place="margin">Mat. 16.18.</note> hath laid but a ſandy aſſertion for his firſt groundwork, in judging Impoſition of hands no ſtanding Ordinance, as having no warrantable foundation. Where<g ref="char:EOLhyphen"/>as, it hath not only as firm a foundation as Chriſt himſelf the rock of ages, being one of his firſt Doctrines, words, ſay<g ref="char:EOLhyphen"/>ings, or teachings, (as the Originall holds forth) but is alſo it ſelf (with the other principles) called a <hi>Foundation. Not laying again the foundation of repentance from dead works,
+<note place="margin">Heb. 6.1, 2.</note> and of faith towards God, of the Doctrine of Baptiſms, and of Laying on of hands,</hi> &amp;c. The word in the Greek is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, which ſignifies ſuch a baſis or principle is laid under another thing, without which that thing cannot ſtand.
+<note place="margin">Epheſ. 2.20, 21.</note> It is one of thoſe foundation ſtones of the Apoſtles and Prophets, layed next the chief corner-ſtone Chriſt Jeſus, and whatſoever building would grow up to an holy temple in the Lord, <hi>Can no more want this foundation principle of Laying on of hands,
+<note place="margin">Heb. 5.12.</note> then its fel<g ref="char:EOLhyphen"/>low principle Baptiſme,</hi> for it is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>the word of the beginning of Chriſt,</hi> which the the Apoſtle ſaith, Every Chriſtian babe ought to be taught,
+<note place="margin">1 Pet. 2.2.</note> as being a part
+<pb n="9" facs="tcp:118732:8"/>of that ſincere milke of the word, which he ought to uſe in the infancy of his profeſſion, whiles yet he is unskilfull in the word of righteouſneſſe. <hi>Heb.</hi> 12.13.</p>
+                  <p>We have talked much of the Six Principles of Chriſti<g ref="char:EOLhyphen"/>an Religion, but alas, it hath been but an uncertain ſound from unskilfull Trumpets, whereby Chriſts Souldiers have not prepared themſelves to the battell,
+<note place="margin">Act 8.30.</note> through their obedience; ſo that if a <hi>Philip</hi> ſhould demand, <hi>
+                        <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtandeſt thou what thou readeſt, or heareſt?</hi> who could give a clear anſwer?</p>
+                  <p>A great noiſe is made of Six Principles, and yet this Gent. ſaith, that one of them is not a ſtanding Ordinance, as wan<g ref="char:EOLhyphen"/>ting a warrantable foundation; thus the number of our Principles are only five, by his account. And Chriſt him<g ref="char:EOLhyphen"/>ſelf affronted as a deceiver. For if this be true that the Gent. ſaith; there is a title, yea and more then a title of a law, word, or doctrine, far exceeding the law of <hi>Moſes,</hi> that is fallen to the ground, and no more a ſtanding Ordinance, Chriſts lips being not a warrantable foundation (it ſeems by this aſſrrtion) to ſupport it.</p>
+                  <p>But who would not tremble that ever was truly awakened to hear a practicall Doctrine of Chriſt, which at firſt was ſpoken by the Lord
+<note n="*" place="margin">Heb. 2.3. with 6.1, 2.</note> to be ſo flighted? He that deſpiſed <hi>Moſes</hi> law, died without mercy. O that timely repentance may avert that ſo much ſorer puniſhment,
+<note place="margin">Heb. 10.29.</note> due to thoſe who bring ano<g ref="char:EOLhyphen"/>ther Doctrine, to raiſe a foundation Principle of Chriſtian Religion, as no ſtanding Ordinance. Contrary to many clear Scriptures, as <hi>Mat.</hi> 28. <hi>ult. Phil.</hi> 4.9. 2 <hi>Tim.</hi> 2.2. 2 <hi>Pet.</hi> 1.15. <hi>Joh.</hi> 14.26. <hi>Heb.</hi> 2.1, 2, 3. which clear Scriptures (with many more) do prove the continuance of all Goſpel Ordinances throughout all ages, and yet this plain inſtitution of Chriſt himſelf, ſeems to the Gent.
+<note place="margin">Luk. 24.11.</note> (like <hi>Maries</hi> meſſage) but an idle tale, no ſtanding Ordinance, as having no warrantable foun<g ref="char:EOLhyphen"/>dation.</p>
+                  <p>From which abſurd and unjuſt concluſion, the Gent. pro<g ref="char:EOLhyphen"/>ceeds to twiſt a rope of ſand, in a ſtrange Syllogiſm, for the ſubverting a people, who are little better acquainted with mood and figure, then their plow-ſhares, to whom Logick is as much a ſtranger, as the truth of this Principle of Laying
+<pb n="10" facs="tcp:118732:9"/>on of hands. But though the Gent. differ not much from a Barbarian to them in this Logicall dreſſe: yet to a preju<g ref="char:EOLhyphen"/>diced people ſet led upon their lees, any thing that looks but againſt this truth will ſerve turn.</p>
+                  <p>The ſubſtance of what he aſſerts in ſuch a multitude of words, is, That Chriſt hath given no command to his Church to practiſe the Laying on of Hands upon all Diſciples.</p>
+                  <p>But ſo far are thoſe Scriptures he quotes, from proving his aſſertion, that they return vigorouſly upon his own head.</p>
+                  <p>For from the firſt of them I do in Gods name expoſtu<g ref="char:EOLhyphen"/>late with him,
+<note place="margin">Iſa. 1.12.</note> 
+                     <hi>Who hath required this at your hands, to con<g ref="char:EOLhyphen"/>tradict and oppoſe one of the Principles of Chriſtian Religion? Whoſoever therefore ſhall break one of theſe leaſt Commandements and teach men ſo, he ſhall be called the leaſt in the Kingdome of heaven, Mat.</hi> 5.19. that is, utterly cut off. <hi>Act.</hi> 3.22.23.</p>
+                  <p>His ſecond Scripture directs us to the Law and to the teſtimony,
+<note place="margin">Iſa. 8.20.</note> which through diſtinguiſhing grace hath engaged gratious hearts in obedience to this law of Laying on of hands; whiles he rejecteth the Law, and ſhunneth the clear teſtimony that Chriſt hath given to this, equall with other of his Ordinances, <hi>Heb.</hi> 2.4.</p>
+                  <p>His third,
+<note place="margin">Ezck. 43.7.</note> Me thinks ſhould lay a loving reſtraint up<g ref="char:EOLhyphen"/>on him, no more to defile the pretious things of Chriſts houſe, of which Laying on of hands hath the fourth place.</p>
+                  <p>And O that his fourth proof might prove armour of proof upon his,
+<note place="margin">Joh. 15.14.</note> and many others hearts! to ſtop their car<g ref="char:EOLhyphen"/>reer againſt the commands of Chriſt; for how can he men<g ref="char:EOLhyphen"/>tion this Scripture, <hi>Ye are my friends if ye do whatſoever I com<g ref="char:EOLhyphen"/>mand you,</hi> whiles he ſheweth himſelf an adverſary to this command of Chriſt? which the Apoſtle ſhews is neceſſary to be taught Chriſts babes, <hi>Heb.</hi> 5.12. and doubtleſſe they acted according to their commiſſion, which runs thus, <hi>teaching them to do all things whatſoever I have commanded you,</hi> Mat. 28.20. Yea the Spirit expreſly teſtifyeth that what the Apoſtles did teach or write are the commands of Chriſt,
+<pb n="11" facs="tcp:118732:9"/>1 <hi>Cor.</hi> 14.37. Then doubtleſſe Chriſts true friends, will hear and obſerve theſe teachings (<hi>Heb.</hi> 5 12. <hi>Ye have need that one teach you again</hi>) which are none other then Chriſts own com<g ref="char:EOLhyphen"/>mands.</p>
+                  <p>The Gent<hi rend="sup">s</hi>.
+<note place="margin">Rom. 4.15.</note> fifth Scripture informs us that where no law is, no traſgreſſion. But why did he produce this Scripture? or what is this to the Fourth principle or Chriſtian Religi<g ref="char:EOLhyphen"/>on, but only to ratifie and confirm this law of Chriſt: un<g ref="char:EOLhyphen"/>leſſe it can be imagined that Chriſts foundation principles are not his own lawes? he commands nothing but what he teacheth, he teacheth nothing but what he commands, yea what his Apoſtles teach, he teacheth, <hi>Luk.</hi> 10 16. <hi>He that heareth you heareth me, and he that deſpiſeth you deſpi<g ref="char:EOLhyphen"/>ſeth me.</hi>
+                  </p>
+                  <p>Let ſuch therefore as tremble at Gods word take heed of the tranſgreſſion of his own laws, iſſuing from his own lips, ſuch as this foundation Principle is fully proved; Leſt they ſhare in <hi>Nadabs</hi> judgement,
+<note place="margin">Levit. 10.1. &amp; 2.13.</note> remembring that of the Apoſtle, <hi>Jam.</hi> 2.10. <hi>Whoſoever ſhall keep the whole law, and yet offend in one point, he is guilty of all;</hi> for he that did teach re<g ref="char:EOLhyphen"/>pentance, faith, and Baptiſme, did alſo with the ſame lips teach Laying on of hands. Now if thou be Baptized, and yet doeſt not ſubmit to the Fourth Principle, thou art become a tranſgreſſour of the Law
+<note n="*" place="margin">Jam. 2.11.</note>.</p>
+                  <p>And when once the ſeal is opened, and the trumpet hath ſounded forth that opened Goſpell truth; nothing remains but the powring out of Gods Vials upon ſuch as refuſe it.</p>
+                  <p>Certainly he hath no diſcerning eye that beholds not ſad marks of Gods diſpleaſure upon ſeverall perſons who have turn'd their backs upon this fourth foundation Principle in thoſe parts where this Gent<hi rend="sup">s</hi>. papers are ſpread abroad, of which I may ſpeak particularly in a convenient ſeaſon; for becauſe they received not the love of the truth that they might be ſaved,
+<note place="margin">2 Theſſ 2.10, 11.</note> therefore God doth ſend them ſtrong deluſions to believe lies.</p>
+                  <p>The good Lord make the fearfull fals, Schiſms, Apoſtaſie and blindneſſe of ſome, to be a timely warning unto others, 1 <hi>Cor.</hi> 10.6, 7, 8, 9, 10, 11, 12. &amp; 2 <hi>Cor.</hi> 4 3, 4.</p>
+                  <pb n="12" facs="tcp:118732:10"/>
+                  <p>But I muſt proceed to declare that we make no ſuch mat<g ref="char:EOLhyphen"/>ter of the word <hi>Oracle,</hi> as the Gent. deems, for though all the lively oracles of God are his commands; to be imbra<g ref="char:EOLhyphen"/>ced, if Notionall, and to be obeyed if Practicall, (as Baptiſm and Laying on of hands) yet they are no ſuch niceties that we inſiſt on, neither reſting on ſuppoſitions, or doubt<g ref="char:EOLhyphen"/>full ſuppoſitions, wherein the Gent. ſo much toyls and en<g ref="char:EOLhyphen"/>tangles himſelf and his readers. But have plainly and clear<g ref="char:EOLhyphen"/>ly proved that Laying on of hands is a doctrine of Chriſt, or one of the words of the beginning of Chriſt, a foundation Principle, the Apoſtle teaching a command of the eternall King; and he that hath an ear let him hear, for it is the Spi<g ref="char:EOLhyphen"/>rit that ſpeaks to the Churches.</p>
+                  <p>But more duſt in new doubts ariſe from the Gent. ſuppo<g ref="char:EOLhyphen"/>ſition or probability that Laying on of hands upon bare Diſciples was rather concluded in the word <hi>Baptiſm</hi> then in the word <hi>Laying on of hands:</hi> for if Laying on of hands be not one of the Baptiſms here expreſſed, he ſaith, He would gladly know how we would make up Baptiſm according to the Scripture? <hi>Heb.</hi> 6.2.</p>
+                  <p>
+                     <hi>Anſw.</hi> Firſt, I would demand of the Gent. whether ever he read that Laying on of hands is any where termed a Baptiſme? if not, then it is a wilde ſuppoſition, and hath no probability at all that Laying on of hands ſhould be con<g ref="char:EOLhyphen"/>cluded (as he phraſeth it) in the word Baptiſm.</p>
+                  <p>Secondly, I ſhall (now I am ſet to it) as gladly an<g ref="char:EOLhyphen"/>ſwer his demand that we can very currantly make up Bap<g ref="char:EOLhyphen"/>tiſm, and never be beholding to impoſition of hands for the matter.</p>
+                  <p>There are three ſorts of Baptiſme, <hi>Flaminis, Fluminis, San<g ref="char:EOLhyphen"/>guinis,</hi>
+                     <note place="margin">Epheſ. 4.5.</note> of Spirit, of Water, of Bloud, and theſe three agree in one, 1 <hi>Joh.</hi> 5.8.</p>
+                  <p>The firſt is that heavenly birth, qualifying the ſubject for Water,
+<note place="margin">Joh. 3.3.</note> as I long ſince deliverd in his hearing at <hi>Muggleſwik</hi> from <hi>Heb.</hi> 10.22. In this, the eternall dove with his extended wings,
+<note place="margin">Iſa. 30.1. Luk. 1.35.</note> covereth, or overſhadoweth the believing ſoul, who (like the bleſſed Virgin) conceiveth with his Jeſus, by the hearing of the ear.</p>
+                  <pb n="13" facs="tcp:118732:10"/>
+                  <p>The ſecond is that externall adminiſtration in which the Diſciple of Chriſt is buried with him, as our Lord com<g ref="char:EOLhyphen"/>manded, and his Miniſters practiſed, <hi>Mat.</hi> 28 19. <hi>Act.</hi> 10.47, 48.</p>
+                  <p>The third is that bitter cup, the drinking whereof, firſt baptized our Redeemer in a ſea of ſorrows, <hi>Luk.</hi> 12.50. His Fathers wrath forcing his vitall bloud in ſtreams through every <hi>pore</hi> of his body, falling down to the ground, <hi>Luk</hi> 22.44. This is that cup and Baptiſm, which the true ſervants of Chriſt muſt alſo ſubmit unto, <hi>Mat.</hi> 20.23. fol<g ref="char:EOLhyphen"/>lowing their Lord without the Camp, (through many tri<g ref="char:EOLhyphen"/>bulations) bearing his reproach.
+<note place="margin">Heb. 10.32.</note> 
+                     <hi>Call to remembrance the for<g ref="char:EOLhyphen"/>mer dayes, in which after ye were illuminated, ye endured a great fight of afflictions.</hi>
+                  </p>
+                  <p>It is obſerved by one that the word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> which we tranſlate <hi>illuminated,</hi> (and that truly is rendred in the <hi>Syriack, Arabick,</hi> and <hi>Aethiopick,</hi> Baptized. And that the Greek fathers do ſometimes call <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Baptizo.</hi>
+                  </p>
+                  <p>But enough hath been ſaid and proved, in anſwer to the Gentlemans demand, ſo that I hope he and others will ſee that we are put to no ſtraight at all to make up the Do<g ref="char:EOLhyphen"/>ctrine of Baptiſms, of Spirit, of Water, of Bloud; without any need of impoſition of hands upon that account. And therefore this doubtfull ſuppoſition is utterly vaniſhed, and the fourth Foundation Doctrine of Chriſt eſtabliſhed, as an eternall
+<note n="*" place="margin">Mar. 24 35. with Heb 6.1, 2.</note> decree of his own lips, which the Church through<g ref="char:EOLhyphen"/>out all ages (<hi>Epheſ.</hi> 3.21) is obliged faithfully to obſerve, <hi>Mat.</hi> 28.20.</p>
+                  <q>But the Gent. goes on to anſwer an objection made from Apoſtolicall example. 1 <hi>Cor.</hi> 4.16. &amp; 10.1.</q>
+                  <p>Concerning which (before I reply to his anſwers) let this be obſerved, That although Apoſtolicall example be ſuffi<g ref="char:EOLhyphen"/>cient ground to practiſe Chriſtian duties, yet we have in this particular of hands, much more then bare examples, namely the teachings of Chriſt and his Apoſtles, for it is al<g ref="char:EOLhyphen"/>ready fully proved, and I hope will be retained in obedient hearts.</p>
+                  <pb n="14" facs="tcp:118732:11"/>
+                  <p n="1">1. <note place="margin" type="runSum">Institution.</note>That this foundation Principle is the expreſſe Doctrine, or word of Chriſt.</p>
+                  <p n="2">2. That ſuch as be babes in Chriſt, had need to be taught this Doctrine.</p>
+                  <p n="3">3. That this Doctrine was religiouſly taught and practi<g ref="char:EOLhyphen"/>ſed in the Churches of the <hi>Hebrews,</hi> &amp;c. And</p>
+                  <p n="4">4. That the Spirit of God enjoyns all that are truly ſpirituall to embrace the things written by the Apoſtles, as none other then the commands of Chriſt, 1 <hi>Cor.</hi> 14.37.</p>
+                  <p>Firſt, And as for Apoſtolicall examples, we look upon them as binding,</p>
+                  <p n="1">1. If they were performed in the Churches of Chriſt, <hi>Phil.</hi> 4.9.</p>
+                  <p n="2">2. If thoſe Apoſtolicall practiſes were never ſolemn<g ref="char:EOLhyphen"/>ly repealed; for there were ſome cerimonies wherewith for a time they complyed, which were afterwards utterly aboliſhed, <hi>Gal.</hi> 2.3, 4, 5, 12, 13. &amp; 4.9, 10, 11. &amp; 5.2.</p>
+                  <p n="3">3. If ſuch performances be not impoſſible (ſuch as miracles) for Chriſt doth not command impoſſi<g ref="char:EOLhyphen"/>bilities, his yoak is eaſie, his burden light; yea the Gent. himſelf confeſſeth, that we are not commanded to fol<g ref="char:EOLhyphen"/>low in acts of power, I ſuppoſe he means miraculous acts, which may ſerve as a juſt reply to his firſt conſideration; for though Chriſt hath left us an example that we ſhould follow his ſteps, yet it is only in his morall, not in his mediatory actions.</p>
+                  <p>Moreover, let it be obſerved, That miracles are no part of the Ordinance, for though many miracles did attend Prea<g ref="char:EOLhyphen"/>ching, Baptiſm, Supper, Laying on of hands, and other Ordinances, yet I hope the Gentleman will not conclude that the ceſſation of miracles doth ſtrip us of theſe mercies.</p>
+                  <p>Theſe things being premiſed,
+<note place="margin">1 Cor. 4.16. &amp; 10.1, 2.</note> I do confidently aſſert from the two Scriptures he mentions, That the Apoſtles examples are obliging to all believers.</p>
+                  <pb n="15" facs="tcp:118732:11"/>
+                  <p n="1">1. Becauſe we have no other warrant for many of our Ordinances then Apoſtolicall example. There is no expreſſe command for obſerving the Lords day, and but one Apoſto<g ref="char:EOLhyphen"/>licall example, but this I fear too many ungratefull (that I ſay not ungracious) ſpirits would readily and willingly diſpenſe with.</p>
+                  <p n="2">2. Where have we ought but Apoſtolicall example, for women to receive the Lords ſupper?</p>
+                  <p n="3">3. What ſhall we do for authority to ordain officers by impoſition of hands, if we refuſe Apoſtolicall Prece<g ref="char:EOLhyphen"/>dents?</p>
+                  <p>Secondly, We muſt obſerve Apoſtolicall examples, be<g ref="char:EOLhyphen"/>cauſe they have exactly followed the commands of Chriſt. <hi>That which we have ſeen and heard</hi> (ſaith <hi>John</hi> 1 <hi>Epiſt.</hi> 1.3) <hi>de<g ref="char:EOLhyphen"/>clare we unto you, touching fellowſhip. We have not fellowed cun<g ref="char:EOLhyphen"/>ningly deviſed fables,</hi> ſaith <hi>Peter</hi> 2 Epiſt. 1.16. <hi>I received of the Lord that which alſo I delivered unto you,</hi> ſaith <hi>Paul,</hi> 1 <hi>Cor.</hi> 11.23. So that whatſoever I finde the Apoſtles practiſing (except before excepted) I ſhall freely and chearfully obſerve, and expect the preſence of the God of peace in ſo doing, <hi>Phil.</hi> 4.9.</p>
+                  <p>And in the very caſe in hand, touching the Fourth foun<g ref="char:EOLhyphen"/>dation Principle, had I no more to reſt upon but the bare example of the Apoſtles in the Churches, I would faithfully obey: for I hope enough hath been ſaid punctually pro<g ref="char:EOLhyphen"/>ving, that what they ſo practiſed, Chriſt commanded them. and though I have heard much ignorance in the handling of this point, yet I hope none will henceforth be ſo blaſphemous as to charge the Apoſtles of will-worſhip, but rather bewail their own blindneſſe.</p>
+                  <p>Well then, if the Apoſtles laid on hands by command from Chriſt; Certain I am, that all Baptized Diſciples are bound to obſerve it, for ſo runs the Commiſſion, <hi>Mat.</hi> 28.19, 20. <hi>Go ye therefore and teach all nations baptizing them—Teaching them to obſerve all things whatſoever I have commanded you.</hi> He doth not ſay, obſerve what I ſhall command them, neither doth he leave them or us to teach and practiſe what, and ſo much as we pleaſe, But all things whatſoever I have
+<pb n="16" facs="tcp:118732:12"/>commanded you. You <hi>Peter,</hi> and <hi>John,</hi> &amp;c. ſo that if <hi>Peter</hi> and <hi>John,</hi> were commanded to practiſe Laying on of hands, then all Baptized Diſciples are bound to obſerve it. And upon theſe termes (and none other) Chriſt hath promiſed them his preſence to the end of the world.</p>
+                  <q>But the Gent. ſaith (upon 1 <hi>Cor.</hi> 4.16) <hi>That the Apoſtle doth not intend fellowing him in all things.</hi>
+                  </q>
+                  <p>I muſt needs ſay theſe are very ſlender,
+<note place="margin" type="runSum">Reply.</note>ſorry ſhifts to ſhuffle off obedience, ſince tis evident in the ſame Epiſtle (1 <hi>Cor.</hi> 11.1.) that he commands them for remembring him in all things, and keeping the ordinances as he delivered them to them. And would the Apoſtle ſo praiſe them, for that they were never exhorted to?</p>
+                  <p>But ſecondly, Whoſoever (in his right mind) ſhall peruſe that Chapter (<hi>viz.</hi> 1 <hi>Cor.</hi> 4.) may eaſily ſee that the Apoſtle intends all things, even all the myſteries of God, whereof he was a Steward, <hi>v.</hi> 1, 2.</p>
+                  <p>And as a Steward of ſuch divine myſteries he ſhunned not to declare all the counſell of God, his care being alike in all Churches,
+<note place="margin">Act. 20.27.</note> 1 <hi>Cor.</hi> 7.17. &amp; 14.33, 34. &amp; 2 <hi>Cor.</hi> 11.28. <hi>the care of all the Churches.</hi> Yet the Gent. confidently affirmes, That he did not teach the Laying on of hands upon all Diſciples in any Churches nor to them.</p>
+                  <p>To which I reply.</p>
+                  <p>Firſt, It ſeems ſomewhat more then ſtrange that the A<g ref="char:EOLhyphen"/>poſtle ſhould be thus cenſured of Phariſaicall hypocriſie, in making clean the outſide of the cup and platter, tithing Mint and Cummin, and neglect the great and weighty matters of the Law. Is he ſo carefull in all Churches about parti<g ref="char:EOLhyphen"/>cular callings, 1 <hi>Cor.</hi> 7.17. about orderly ſpeaking, 1 <hi>Cor.</hi> 14.33, 34. about Almes, 1 <hi>Cor.</hi> 16.1. And is he ſo care<g ref="char:EOLhyphen"/>leſſe in laying the Foundation Principles of Chriſtian Re<g ref="char:EOLhyphen"/>ligion? Either the Apoſtle in neglecting, or the Gent. in aſſerting ſuch neglect,
+<note place="margin">1 Cor. 4.1, 2.</note> muſt needs be groſly guilty of igno<g ref="char:EOLhyphen"/>rance, unfaithfulneſſe, or hypocriſie.</p>
+                  <p>Secondly, It's plain the Apoſtle practiſed Laying on of hands in the Church; and did he inforce obedience without
+<pb n="17" facs="tcp:118732:12"/>teaching?
+<note place="margin">Act. 19.5, 6. Chap. 17.11. Chap. 2.40.</note> or were thoſe <hi>Epheſian</hi> Diſciples ſo ignoble to act by an implicite faith, in ſubmitting to they know not what. The <hi>Bereans</hi> are recorded noble, for not barely reſting on the Apoſtles words; it is ſaid of <hi>Peter,</hi> that with many other words he did teſtifie and exhort. For the Goſpel and <hi>Acts</hi> is but an Epitomy of what Jeſus and his Apoſtles did and ſaid. Muſt it then be aſſerted that becauſe it is not de<g ref="char:EOLhyphen"/>clared in ſo many words, <hi>He taught laying on of hands,</hi> that therefore he taught it not at all? why then they pra<g ref="char:EOLhyphen"/>ctiſed what he never taught; this is will-worſhip with a witneſſe.</p>
+                  <p>We do not finde that <hi>Philip</hi> ſpake one ſyllable of the Do<g ref="char:EOLhyphen"/>ctrine of Baptiſme, ether to the <hi>Samaritans,</hi> or to the <hi>Eunuch,</hi>
+                     <note place="margin">Act. 8.12, 36.</note> and yet they are Baptized, and he cals for the Ordinance; ſo that I dare boldly affirme that <hi>Philip</hi> did teach the Do<g ref="char:EOLhyphen"/>ctrine of Baptiſme, though no mention be made of teaching, and ſo of hands; for what liberty ſoever others dare take, yet I dare not charge the Apoſtles with acting beſides their Commiſſion; and certain I am, their Commiſſion binds them to teach, that which the Diſciples are bound to obſerve, <hi>Teaching them to obſerve; Mat.</hi> 28.20. and <hi>Paul</hi> himſelf pro<g ref="char:EOLhyphen"/>feſſeth, <hi>That what he received of the Lord, that he alſo delivered un<g ref="char:EOLhyphen"/>to them,</hi> by way of teaching, 1 <hi>Cor.</hi> 11.23. And requires us to account of him and his fellow Miniſters, <hi>as faithfull ſtewards of the myſteries of God,</hi> 1 <hi>Cor.</hi> 4.1, 2. So that what<g ref="char:EOLhyphen"/>ever the Gent. confidently affirmes to the contrary, I dare boldly avouch that if there were no more but Apoſto<g ref="char:EOLhyphen"/>licall practiſe, and Diſciples obſerving Laying on of hands, I ſay, I dare from hence aver it with full aſſurance, that the Apoſtle did teach Laying on of hands on all Diſciples, faith<g ref="char:EOLhyphen"/>fully in all Churches. Chriſt having purchaſed the ſame priviledges for all his Saints, commanded the ſame exact rules for them all <hi>(teaching them to obſerve all things whatſoever I have commanded you)</hi> And the Apoſtles moſt faithfully diſpenſing all to al Churches, and particularly to this Church of <hi>Corinth,</hi> for ſaith he, 2 <hi>Cor</hi> 12.13. <hi>What is it wherein ye were inferior to other Churches?</hi> Nay he profeſſeth, <hi>That in every thing they were enriched by him, So that they came behind in no gift,</hi> 1 <hi>Cor.</hi> 1.5, 7.</p>
+                  <pb n="18" facs="tcp:118732:13"/>
+                  <p>But if the Gent. ſpeak true in ſaying, that <hi>the Laying on of hands upon all Dyciples, he taught in no Church nor to them:</hi> I muſt be bold to ſay, the Apoſtle ſpake falſe in affirming that they were enriched in every thing—in all knowledge, and that they came behind in no girt. For I am ſure that Laying on of hands is the Vehicle,
+<note place="margin">Vehiculum Spi<g ref="char:EOLhyphen"/>ritus.</note> or conduit pipe, through which many gifts of the Spirit are conveyed. And as ſure that thoſe divine ornaments wherewith the <hi>Corinthians</hi> were ſo enriched, were graciouſly handed through <hi>Paul,</hi> 1 <hi>Cor.</hi> 4.15.</p>
+                  <p>Laſtly, I do poſitively aſſert, That the Apoſtle did ex<g ref="char:EOLhyphen"/>preſly teach the Laying on of hands upon all Diſciples in the Churches, for beſides the Church of <hi>Samaria, Act</hi> 8. and the Church of <hi>Epheſus, Act.</hi> 19.5, 6. where it is declared that they heard before they obſerved either <hi>Baptiſme</hi> or <hi>Laying on of hands. When they heard this, they were Baptized— and Paul laid his hands upon them all.</hi>
+                  </p>
+                  <p>I ſay, beſides the Apoſtles teachings in theſe Churches, it is evident that they did expreſly teach this Doctrine with other foundation words,
+<note place="margin">Act. 5.31. Gal. 1.22.</note> once and again to the Churches of <hi>Judea,</hi> or Chriſtian <hi>Hebrews,</hi> who were then comfortably walking in the compleat order of the Goſpell, <hi>Heb.</hi> 13.7. &amp; 17.24. Yea this Doctrine is taught to all the Diſciples or babes in Chriſt, as milke fitter for conſtitution; for though by the improvement of their time, and talents they might have been teachers, yet they were ſtil ſuch babes (not teachers) that there was a neceſſity of teaching them again theſe firſt foundation Doctrines, which poſſibly they had ſo forgot, that young converts were deprived of them.</p>
+                  <p>Thus 'tis evident this Doctrine of hands was taught in the Churches to babes, yea to the Hebrew Diſciples, and though it be ſo much ſlighted, yet the Apoſtles do rec<g ref="char:EOLhyphen"/>kon it one of the ſix foundation Doctrines, for <hi>Sions</hi> babes.</p>
+                  <pb n="19" facs="tcp:118732:13"/>
+                  <q>The Gent. proceeds to overturn Apoſtolicall example, by his anſwer to the ſecond Scripture brought to aſſert it, namely 1 <hi>Cor.</hi> 11.1. <hi>Be ye followers of me, even as I alſo am of Chriſt,</hi> to which he ſayes the Apoſtle did not intend acts of power, but acts of imi<g ref="char:EOLhyphen"/>tation.</q>
+                  <p>
+                     <label>My reply is,</label>That if his meaning be,
+<note place="margin" type="runSum">Reply.</note>that the Apoſtle did not exhort all the <hi>Corinthians</hi> to exerciſe the Miniſteriall function, or to follow him in doing miracles, 'tis freely yeelded. But if he mean that the Apoſtle did not command them to follow him in all imitable Chriſtian duties, 'tis utterly denyed; for what he commands more generally in this Scripture, he he doth more particularize in <hi>Phil.</hi> 4.9. <hi>Thoſe things which ye have both learned, and received, and heard, and ſeen in me, do: and the God of peace ſhall be with you.</hi>
+                  </p>
+                  <p>Now to the point in hand; ſuch babes to whom he writes, 1 <hi>Cor.</hi> 3 1, 2. had learned the Doctrine of Laying on of hands, <hi>Heb.</hi> 5.12. and this Doctrine they had alſo received, <hi>Act.</hi> 19.6. which likewiſe they had heard and ſeen in <hi>Paul,</hi> when he was a babe in Chriſt, <hi>Act.</hi> 9.17. This therefore they ought to do as ever they expect the preſence of the God of peace, ſo that in this particular it is evident that <hi>Paul</hi> com<g ref="char:EOLhyphen"/>mands them, <hi>Be ye followers of me:</hi> as being fully proved a command of Chriſt, and practiſe of the Churches.</p>
+                  <q>But the Gent. ſaith, <hi>That impoſition of hands is an act of Power.</hi>
+                  </q>
+                  <p>To which I reply,</p>
+                  <p>'Tis no more an act of power then its fellow Principle Baptiſme, Preaching, or any other Ordinance of Chriſt, touching which, that of the Wiſeman may be applyed, Say not this is better then that, for they are all beautifull in their ſeaſon.</p>
+                  <p>It's true, the gifts of the H. Ghoſt were ſo eminently poured out through Laying on of hands, that <hi>Simon Magus</hi> thought it
+<pb n="20" facs="tcp:118732:14"/>an act of power, <hi>Act.</hi> 8.19. But <hi>Simon Magus</hi> ſhall be no tutor of mine, for <hi>Simon Peter</hi> teacheth me a contrary leſſon, <hi>Act.</hi> 3.12. namely, that what gift Chriſt is pleaſed to convey through Miniſters, is not by any power in the poor inſtru<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>But wherein is Laying on of hands an act of power, more then Baptiſme or Preaching? is it becauſe the gifts of the Spirit were received by it? Why ſo, they were by Baptiſme, or elſe <hi>Peter</hi> preached falſe doctrine, and failed in what he promiſed, <hi>Act.</hi> 2.38. <hi>Repent and be Baptized every one of you, and ye ſhall receive the gift of the holy Ghoſt.</hi>
+                  </p>
+                  <p>
+                     <hi>Object.</hi> Nay, but there were miraculous gifts beſtowed vi<g ref="char:EOLhyphen"/>ſibly upon Laying on of hands, <hi>Act.</hi> 19.6. <hi>They ſpake with tonguet and propheſied.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> So there was in Preaching, <hi>Act.</hi> 10 44. <hi>While Peter yet ſpake theſe words, the holy Ghoſt fell on all them which heard the word, and they ſpake with tongues and magnified God, verſ.</hi> 46.</p>
+                  <p>Now what reaſon or religion can call Laying on of hands a greater act of power then Preaching is? Or who dare put an end to the Fourth Principle becauſe the viſi<g ref="char:EOLhyphen"/>ble power is ceaſed; and yet retain Preaching from which the very ſame viſible power that did accompany it is alſo ceaſed.</p>
+                  <q>But the Gent. Syllogiſtically aſſerts, <hi>That the laying on of hands upon all Believers, was never practiſed by any ſave only Apoſtles.</hi>
+                  </q>
+                  <p>If by Apoſtles he means the Twelve,
+<note place="margin" type="runSum">Anſw.</note>and <hi>Paul,</hi> then I deny his aſſertion, for <hi>Ananias</hi> was not ſuch an Apoſtle, and yet he did Lay hands on <hi>Paul,</hi> preſently after his converſion, and before his Baptiſme; and that not for ordination to office: but as the Scripture plainly declareth, for theſe two ends.</p>
+                  <p n="1">1.
+<note place="margin">Act. 9.17.</note> That he might receive his ſight.</p>
+                  <p n="2">2. That he might be filled with the holy Ghoſt.</p>
+                  <p>Which latter, is the very end of the adminiſtration of the Fourth Principle; which is not buond up to any preciſe
+<pb n="21" facs="tcp:118732:14"/>time, but is here adminiſtred before Baptiſm. In <hi>Act.</hi> 8. ſoon after Baptiſme. In <hi>Act.</hi> 19. long after Baptiſme. Which is the ground of our latitude in waiting for believers ſubmiſ<g ref="char:EOLhyphen"/>ſion to thir holy Ordinance. But</p>
+                  <p>Secondly, If his aſſertion were true, that none but Apoſtles may adminiſter this Ordinance of hands, yet muſt it not fall to the ground for want of ſuch officers to adminiſter it, for Chriſts hand is not ſhortned, neither are the gifts and graces of his Spirit reſtrained. I know not of any gift that is ceaſed, but what Reprobates may have and go to hell with, <hi>Mat.</hi> 7.22, 23. Neither are thoſe gifts utterly ceaſed in the Churches of the Saints.</p>
+                  <p>And as for thoſe choiſe gifts of his love,
+<note place="margin">Jer. 3.15. Epheſ. 4.8.11.12.</note> for the work of the Miniſtry, thoſe Paſtors after his own heart, which he that is faithfull hath promiſed; no leſſe hath been his libera<g ref="char:EOLhyphen"/>lity ſince his aſcenſion then before. <hi>Say not thou, What is the cauſe that the former dayes were better then theſe? for thou doſt not enquire wiſely concerning this, Eccleſ.</hi> 7.10.</p>
+                  <p>I know that many deceived ſouls have traditionally received the ceſſation of Apoſtles, with as much confidence as they dare blot out this Fourth Foundation Principle. But where is that Scripture that ſaith, Apoſtles are ceaſed? To put a diſtinction between ordinary and extraordinary officers, is to coyn ſuch terms and concluſions, as will never paſſe for cur<g ref="char:EOLhyphen"/>rant in Gods account, as being not once mentioned in the Scriptures of truth.</p>
+                  <p>I have therefore laid down this as an eternall truth, <hi>That Apoſtles are not ceaſed, but by the free gift of Chriſt continued in, and to the Churches of the Saints.</hi> As Chriſt hath given them to, (<hi>Epheſ.</hi> 4.11.12.) ſo he hath ſet them in the Church, 1 <hi>Cor.</hi> 12.28. And in his Churches we frequently find theſe A<g ref="char:EOLhyphen"/>poſtles, <hi>Epaphoditus</hi> was an Apoſtle of the Church of <hi>Philippi,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, which we tranſlate <hi>Your Meſſenger;</hi> ſo 2 <hi>Cor.</hi>
+                     <note place="margin">Phil. 2.27.</note> 8.23. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>The Apoſtles of the Churches, the glory of Chriſt.</hi> So that we muſt not be unfaithfull to Chriſt, to let fall one of his Foundation Principles for want of an officer to adminiſter it. If it were true, as the Gent. ſaith, that none but Apoſtles may do it, yet 'tis clear that Chriſt hath richly furniſhed his Churches even with Apoſtles,
+<pb n="22" facs="tcp:118732:15"/>ſo that neither Officer nor Ordinance is yet fallen to the ground.</p>
+                  <p>Thirdly,
+<note place="margin">Gal. 2.18.</note> the Apoſtle ſaith, <hi>If I build again the things which I deſtroyed, I make my ſelf a tranſgreſſour.</hi> Such a tranſgreſſour is this Gent. in bringing ſlime in ſtead of morter by theſe his Arguments to build again that Popiſh, Prelaticall ſuperiority, which Chriſt and Saints have exploded.</p>
+                  <p>It was indeed their aſpiring project to uphold their totte<g ref="char:EOLhyphen"/>ring <hi>Babel,</hi> that all the Miniſters of Chriſt had not equall authority, and therefore muſt not preſume to adminiſter all ordinances,; and particularly none but Lawn-ſleeves muſt preſume to medle with this Ordinance of hands, either to private Diſciples (wherein they being purblind did groſly miſtake the ſubject, as they did alſo in Baptiſme, taking Carnall babes for Spirituall) neither might any elſe without theſe Lordly Prelates ordain any to Church office.</p>
+                  <p>And ſuch a deſigne is this Gent. driving, who would con<g ref="char:EOLhyphen"/>fine and limit this ordinance of hands, to the hands of A<g ref="char:EOLhyphen"/>poſtles. 'Tis ſtrange that this foundation Principle muſt either be mounted and advanced above its fellowes, or elſe it muſt be buried in oblivion, and not practiſed at all.</p>
+                  <p>What is impoſition of hands, more then the Doctrine of Faith, Repentance, Baptiſme, and the reſt, that the beautifull feet of him which bringeth the Doctrine of Faith, and Baptizeth, may not preſume to adminiſter hands?</p>
+                  <p>Chriſts Doctrine owns no ſuch difference in point of ſuperiority, but whoſoever is orderly called to preach, hath alſo full authority to carry on all Ordinances what<g ref="char:EOLhyphen"/>ſoever Chriſt commanded his Apoſtles, <hi>Mat.</hi> 28.19, 20. If what hath been ſaid doth not ſatisfie, as to the equall power of all preaching Miniſters to carry on all Ordinan<g ref="char:EOLhyphen"/>ces, let theſe Scriptures be conſidered, 2 <hi>Tim.</hi> 2.2. Act. 20.28. 1 <hi>Cor.</hi> 3.5.8. 1 <hi>Pet.</hi> 5.1, 2, 3, 4. 3 <hi>Joh.</hi> 9. 1 <hi>Theſſ.</hi> 1.1. with many more; which clearly hold out equall power, not one for any ſuperiority. So that the Gent. is much miſtaken in ſaying, 'tis an Abſurdity, yea that many Abſur<g ref="char:EOLhyphen"/>dities
+<pb n="23" facs="tcp:118732:15"/>will follow our aſſertion, that we are commanded to follow the Apoſtles in all things (except ſtil before excepted.)
+<note place="margin">Act. 9.</note>) And in this thing it's plain <hi>Ananias</hi> did it, and the Presbyte<g ref="char:EOLhyphen"/>rie did it, and <hi>Timothy</hi> had power to do it,
+<note place="margin">1 Tim. 4.14. &amp; 5.22.</note> and other Mi<g ref="char:EOLhyphen"/>niſters may do it, and God will bleſſe it.</p>
+                  <p>And thus having anſwered the Gent. touching fit Miniſters for this ordinance; I ſhall in the ſecond place take a view of the ſubjects, which he ſaith were a people ignorant of, and ſtrangers to the holy Ghoſt.</p>
+                  <p>Whereunto I anſwer,</p>
+                  <p n="1">1. That it is true of thoſe <hi>Act.</hi> 19. before <hi>Paul</hi> inſtructed them better; but I hope the Gent. will bethink himſelf, and confeſſe that before the Laying on of hands, they were taught and believed in the holy Ghoſt.</p>
+                  <p>And as for thoſe Diſciples of both ſexes in <hi>Samaria,</hi> they heard Chriſt faithfully preached, (<hi>Act.</hi> 8.5, 6.) they ſaw the power of the holy Spirit working by wonderfull mi<g ref="char:EOLhyphen"/>racles, (<hi>v.</hi> 6. unclean ſpirits caſt out (<hi>v.</hi> 7.) they were fil<g ref="char:EOLhyphen"/>led with joy (a lively fruit of the Spirit, <hi>v.</hi> 8.) they believed (which is an eminent gift of the Spirit, 1 <hi>Cor.</hi> 12.9.) and were Baptized in the name of Jeſus, that is, according to the command of Jeſus, (<hi>v.</hi> 12.) Now to affirme that theſe were ignorant of, and ſtrangers to the Holy Ghoſt, is that which I dare not venture upon, for the reverence I owe to God, and fear leſt his Saints ſhould ſhun me for groſſe un<g ref="char:EOLhyphen"/>truth.</p>
+                  <p>But however, the Gent. at unawares hath thus far holpen us, in acknowledging ſome truth, namely, That they were but yong beginners, meer babes in Chriſt, to whom this Ordinance of hands was adminiſtred.</p>
+                  <q>Whereas he ſaith, <hi>That there was no ſuch practiſe a<g ref="char:EOLhyphen"/>mongſt. the</hi> 3000. <hi>Act.</hi> 2. nor <hi>Act.</hi> 4. <hi>nor in the Churches of Corinth, Rome, Theſſalonica, or any other ſet<g ref="char:EOLhyphen"/>led Churches.</hi>
+                  </q>
+                  <p>
+                     <label>I anſwer,</label> If Laying on of hands be the Apoſtles Doctrine,
+<note place="margin" type="runSum">Anſw.</note>then the 3000. did religiouſly practiſe it; what a needleſſe thing is
+<pb n="24" facs="tcp:118732:16"/>it now to play the Logician, and muſter up a Minor, and Concluſion. But Laying on of hands is the Apoſtles Do<g ref="char:EOLhyphen"/>ctrine, <hi>Ergo.</hi> Is it not much more ſubſtantiall to prove this truth by the plain word of God; thus, <hi>Act.</hi> 2.42. <hi>They continued ſtedfaſt in the Apoſtles Doctrine;</hi> ſo that either the Gent. muſt deny Laying on of hands to be the Apoſtles Do<g ref="char:EOLhyphen"/>ctrine for babes, or elſe he muſt perforce confeſſe, (with humility) that they did practiſe it. What wiſeman will ſay, this Church neglected, what their meſſengers in ano<g ref="char:EOLhyphen"/>ther
+<note n="*" place="margin">Act. 8.14, 15, 16, 17.</note> Church practiſed?</p>
+                  <p>And as for that uncouth reaſoning, that neither the Churches of <hi>Rome,</hi> nor <hi>Corinth,</hi> nor any ſetled Churches, did practiſe the Fourth Principle. As it is not true in it ſelf, as I have already fully proved, ſo it muſt unavoidably bring in ſuch groſſe Abſurdities (if he talks of Abſurdi<g ref="char:EOLhyphen"/>ties) as ſhall ſhake, yea and overturn moſt of our Ordi<g ref="char:EOLhyphen"/>nances.</p>
+                  <p>For I may as well conclude, that breaking of bread, and the Lords Supper is not to be practiſed, becauſe neither the Churches of <hi>Rome,</hi> of <hi>Epheſus,</hi> of <hi>Philippi,</hi> of <hi>Coloſſe,</hi> of <hi>Theſſalonica,</hi> nor any of the ſeven Churches of <hi>Aſia,</hi> have any mention of it.</p>
+                  <p>I know not of any more then three Churches that mention the Lords ſupper; namely, <hi>Judea, Troas,</hi> and <hi>Corinth,</hi> and in ſo many (at leaſt) is the Fourth Principle recorded, <hi>viz.</hi> the <hi>Hebrews, Samaria,</hi> and <hi>Epheſus.</hi>
+                  </p>
+                  <p>I might produce many Churches, where not a ſyllable of Baptiſme is once mentioned, and the like of ſeverall other Ordinances; but I am perſwaded ſo of the Gent. that he will ingenuouſly acknowledge, it was for want of a better reaſon that he produced this.</p>
+                  <q>From the ſubjects, he proceeds to the end of this Or<g ref="char:EOLhyphen"/>dinance, which he ſaith, <hi>Was not to put perſons in expectation of, or waiting for the Holy Ghoſt, but imme<g ref="char:EOLhyphen"/>diately to communicate the Spirit in the action.</hi>
+                  </q>
+                  <p>Tis ſtrange to me that the Apoſtles ſhould ſo earneſtly pray for the holy Spirit,
+<note place="margin" type="runSum">Anſw.</note>
+                     <note place="margin">Act. 8.19.</note> to fill them that were not to ex<g ref="char:EOLhyphen"/>pect
+<pb n="25" facs="tcp:118732:16"/>or wait for it. Deſerves he food that thinks it vain to gape? The Lord Jeſus hath put all his upon earneſt prayer and expectation for his Spirit, <hi>Luk.</hi> 11.</p>
+                  <p>Neither is it in the power of any creature to communi<g ref="char:EOLhyphen"/>cate of the Spirit through any ordinance, for the Wind (or Spirit) bloweth where and how it liſteth, having ſeverall gifts which he diſtributeth as he pleaſeth, 1 <hi>Cor.</hi> 12.11. whether ſooner or later, 'tis worth the waiting for.</p>
+                  <p>Now the juſt end of this Ordinance of hands (as of all other ordinances) is for ſpirituall babes to obtain a geater meaſure of the ſame Spirit, ſome heavenly qualifica<g ref="char:EOLhyphen"/>tion, ſome ſealing, confirming mercy, ſuch as Believers have need of, as <hi>Epheſ.</hi> 1.13. <hi>In whom alſo after that ye believed, ye were ſealed by that holy Spirit of promiſe;</hi> that is, after the poor babe hath rolled it ſelf upon Chriſt by a faith of adherence, God is pleaſed to ſeal it by faith of aſſurance, ſometimes ſooner, ſometimes later, ſometimes in Baptiſme or after, ſometims, through laying on of hands, Lords Sup<g ref="char:EOLhyphen"/>per, Prayer, Preaching, how he will, and when he will; where<g ref="char:EOLhyphen"/>fore it behoves the gratious ſoul to wait upon him for his Spirit in all his holy appointments, for there he will hand out his loves, <hi>Cant.</hi> 7.12.</p>
+                  <p>There is a generation of profeſſors that are rather princi<g ref="char:EOLhyphen"/>pled by ſight then faith, who will not believe except they ſee ſignes and wonders, but they ſhould remember that an evill and adulterous generation ſeeketh after a ſign. And yet they might ſee ſigns and wonders every day,
+<note place="margin">2 Cor. 12.12.</note> yea the ſigns and wonders of Apoſtles wrought amongſt them; that is, thoſe greater works, that Chriſt promiſed his Diſciples ſhould do, <hi>Joh.</hi> 14.12. Greater miracles they never could, they never did do. But greater works of converſion were wrought by them, and theſe are the great ſignes and ſeals, and mighty deeds, that God is working by his Apoſtles even before our eyes. There being many through grace that are able to ſay, <hi>The ſeal of mine Apoſtleſhip are ye in the Lord:
+<note place="margin">1 Cor. 9.2. 2 Cor. 3.2.</note> Ye are our Epiſtle written in our hearts, ſeen and read of all men.</hi>
+                  </p>
+                  <p>Yet theſe ſignes will never ſatisfie a doubting <hi>Didymus,</hi> no not all the atteſtation of all the Apoſtles; except he ſhall
+<pb n="26" facs="tcp:118732:17"/>ſee in his hands the print of the nails, and put his finger into the print of the nails,
+<note place="margin">Joh. 20.25.</note> and thruſt his hand into his ſide, he will not believe. Such a faithleſſe generation hath this age brought forth, except they ſee the very ſame miracles as were wrought by <hi>Peter</hi> and <hi>Paul</hi> upon mens bodies, they will not believe there are any Apoſtles now in being, except they ſee the ſame gifts of tongues, or ſome viſible operation upon laying on of hands, they will not believe there's any ſuch Ordinance now in force. Although the ſame unbelieving profeſſors will not reject preaching upon that account (that were too open a diſcovery of a half Chriſtian) though the ſame ſigns did, but now do not accompany that Or<g ref="char:EOLhyphen"/>dinance.</p>
+                  <p>Thus <hi>Herod</hi> may do many things, and hear <hi>John</hi> gladly, but fooliſh Virgins cannot be thorough ſpirited; ſome<g ref="char:EOLhyphen"/>thing will be found wanting in the day of Chriſt, when it will be too late to go to buy, what now they ſlight. And then they ſhall experimentally finde the truth of St. <hi>James</hi> his Doctrine,
+<note place="margin">Jam. 2.10.</note> 
+                     <hi>Whoſoever ſhall keep the whole Law, and yet offend in one point</hi> (one principle) <hi>he is guilty of all.</hi> Remember that after Trumpets,
+<note place="margin">Act. 13.41.</note> come Vials. <hi>Behold ye deſpiſers, and wonder, and periſh: for I work a work in your dayes, a work which you ſhall in no wiſe be<g ref="char:EOLhyphen"/>lieve, though a man declare it unto you.</hi>
+                  </p>
+                  <p>But as for the gracious heart, who puts forth his faith into obedience upon the account of a naked inſtitution, becauſe he finds that Laying on of hands is the Doctrine or word of that Chriſt whom he loves, and in whom he lives, becauſe it is one of his Foundation Principles; becauſe it is ſincere milk for new born babes; becauſe the Maſter builders declare that ſuch babes have need of ſuch Princi<g ref="char:EOLhyphen"/>ples; becauſe theſe were the Apoſtles teachings in, and wri<g ref="char:EOLhyphen"/>tings to the Churches; becauſe the eternall Spirit binds true Diſciples to embrace the Apoſtles writings, and teachings, as none other then the commands of Chriſt.</p>
+                  <p>Hence the faithfull ſoul mounted on the wings of love (without attendance upon miraculous or viſible opera<g ref="char:EOLhyphen"/>tions) divinely ecchoing to the language of his beloved, cries, <hi>Lo I come to do thy will O God, yea thy law is within my heart.</hi> I am weary with forbearing, and I can no longer ſtay.</p>
+                  <pb n="27" facs="tcp:118732:17"/>
+                  <p>And thus putting reſolution into action, he frequently meets with ſuch holy tranſportations and true ſpirituall re<g ref="char:EOLhyphen"/>freſhings (far exceeding any miraculous viſible operation) that he breaths forth this or the like heavenly Rapture, (as being tranſlated and transformed into the ſame image from glory to glory,
+<note place="margin">Cant. 6.10.</note> by the Spirit of the Lord) <hi>Or ever I was aware, my ſoul made me like the Chariots of Ammi<g ref="char:EOLhyphen"/>nadib.</hi>
+                  </p>
+                  <p>Theſe are no fancies; we ſpeak that we know, and teſti<g ref="char:EOLhyphen"/>fie that we have ſeen. And thus the believing babe, meets with that benediction which Chriſt entailed upon his obe<g ref="char:EOLhyphen"/>dience, <hi>Joh.</hi> 20.29. <hi>Becauſe thou hast ſeen, thou haſt believed, bleſſed are they that have not ſeen, and yet have believed.</hi> Theſe are the proper objects of Chriſts prayer, <hi>Joh.</hi> 17.20. <hi>Neither pray I for theſe alone, but for them alſo which ſhall believe on me through their word.</hi> He doth not ſay through their miracles, but through their word; becauſe it is a ſurer rule of directi<g ref="char:EOLhyphen"/>on then any miracle, yea then any revelation, viſion, or extraordinary voice from heaven whatſoever, 2 <hi>Pet.</hi> 1.16, 17, 18, 19.</p>
+                  <p>The Apoſtles voice is the tryall of ſpirits, 1 <hi>Joh.</hi> 4.7. <hi>We are of God, he that knoweth God, heareth us: hereby know we the Spirit of truth, and the ſpirit of errour.</hi>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <p>For further illuſtration of the end of this Ordinance of <hi>Laying on of hands;</hi> namely, A fuller attainment, and greater meaſure of ſpirituall gifts; Let it be obſerved, that the gifts of the Spirit are of two ſorts.</p>
+                  <p>The firſt, Externall, and viſibly miraculous; and the ſe have two ſpeciall uſes.</p>
+                  <list>
+                     <item>1. To confirm the word and ordinances.</item>
+                     <item>2. To convince unbelievers.</item>
+                  </list>
+                  <p>The ſecond ſort are more intrinſecall, ſoul-ſatisfying and glorious; for the ſealing, eſtabliſhing, and nouriſhing of Chriſt babes.</p>
+                  <p>Thoſe externall gifts, which are of ſuch excellent uſe,
+<note place="margin">Mark. 6.7, 13</note> and are accompanied with choice conſolation to believers; yet may a <hi>Judas, Demas,</hi> or any other re<g ref="char:EOLhyphen"/>probate
+<pb n="28" facs="tcp:118732:18"/>be largely ſtored with them,
+<note place="margin">Mat. 7.22.</note> and go to hell after<g ref="char:EOLhyphen"/>wards.</p>
+                  <p>Thoſe gifts are,
+<list>
+                        <item>1. Healing.</item>
+                        <item>2. Miracles.</item>
+                        <item>3. Extraordinary Propheſie.</item>
+                        <item>4. Divers kinds of tongues.</item>
+                        <item>5. Interpretation of tongues, 1 <hi>Cor.</hi> 12.9, 10.</item>
+                     </list>
+                  </p>
+                  <p n="1">1. For healing. Although it be a gift continued in the Churches, and is the proper work of Elders, <hi>Jam.</hi> 5.14, 15. and we enjoy it to this day, and have ſometimes ſeen and heard of wonderfull effects, yet it cannot be conſtantly ex<g ref="char:EOLhyphen"/>pected no not from the hands of Apoſtles. If <hi>Paul</hi> could have healed his faithfull fellow-labourer (<hi>Phil.</hi> 2.25, 27, 30.) I am confident he would.</p>
+                  <p n="2">2. If any are by this means healed, Chriſt hath performed his promiſe. If all were under the influence of this gift (at all times) mortality ſhould ceaſe; no man would ever dye, that might ſo eaſily injoy life.</p>
+                  <p n="3">3. This gift is rather for confirming
+<note n="*" place="margin">Mark. 16.20.</note> the word and Ordi<g ref="char:EOLhyphen"/>nances, and for the conviction of Heathens, then for the reco<g ref="char:EOLhyphen"/>very of Chriſtians.
+<note place="margin">Act. 28.8.</note>
+                  </p>
+                  <p>And thereupon <hi>Paul</hi> leaves the Heathen Parent of <hi>Publius</hi> at <hi>Miletum</hi> well. But the Chriſtian <hi>Trophimus,</hi> he left at <hi>Miletum</hi> ſick. 2 <hi>Tim.</hi> 4.20.</p>
+                  <p n="4">4. A reprobate may enjoy this gift and periſh, <hi>Luk.</hi> 9.6.</p>
+                  <p>Therefore this is no ſuch deſirable gift for beleevers to look for in Laying on of hands.</p>
+                  <p>Secondly, Miracles, of what kind ſoever, are 1. To con<g ref="char:EOLhyphen"/>firme the word and Ordinances, <hi>Heb.</hi> 2.4. Whereupon ſuch Ordinances as God confirmed by Miracles, are firmly to be retained and obſerved, and not at any time to be let ſlip, <hi>Heb.</hi> 2.1.</p>
+                  <p>Now it is moſt clear that Laying on of hands upon Diſciples, was confirmed by miracles; ſo that this Ordi<g ref="char:EOLhyphen"/>nance (amongſt others) muſt be carefully obſerved, with ear<g ref="char:EOLhyphen"/>neſt heed
+<note n="*" place="margin">Heb. 2.1. opened.</note>, leſt at at any time we ſhould let it ſlip. Obſerve
+<pb n="29" facs="tcp:118732:18"/>poor ſoul, thou that ſtandeſt in awe of thy God muſt not let it ſlip at any time, therefore hold it faſt at this time.</p>
+                  <p n="1">1. Becauſe it is a ſuper-angelicall ordinance, and there<g ref="char:EOLhyphen"/>fore to remain ſtedfaſt and unmoveable, <hi>Heb.</hi> 2.2.
+<note place="margin">Verſ. 2.</note>
+                  </p>
+                  <p n="2">2. Becauſe the ſlighting of this, and other Goſpel mer<g ref="char:EOLhyphen"/>cies will unavoidably bring the greateſt miſeries (<hi>v.</hi> 3.)
+<note place="margin">Verſ. 3.</note> no poſſibility of eſcape: if every tranſgreſſion and diſobedi<g ref="char:EOLhyphen"/>ence to <hi>Moſes</hi> law
+<note n="*" place="margin">Heb. 10.28, 29.</note> (every tranſgreſſion) were ſo ſe<g ref="char:EOLhyphen"/>verely puniſhed; how ſhall we eſcape? Impoſſible to eſcape.</p>
+                  <p n="3">3. Thou muſt take heed to this Fourth Principle as well as other duties, (earneſt heed) Becauſe it was at firſt ſpoken by the Lord, and confirmed to his Apoſtles, and by them faith<g ref="char:EOLhyphen"/>fully taught us. Mind it Chriſtian, 'tis for thy life; thou canſt not eſcape, if thou let it ſlip; after warning, if thou receive not the truth with love, God will ſend thee ſtrong deluſions to believe a lie. Ah! how have I ſeen the Lords profeſſed people carried away captive, that have ſlighted this Ordinance. Hurryed by Satan, to blaſpheme other glo<g ref="char:EOLhyphen"/>rious truths, drowned in the world, and the love of it (1 <hi>Joh.</hi> 2.15.) given up to horrible lying, bitterneſſe, emula<g ref="char:EOLhyphen"/>tion, envy, ſtrife, ſedition, making ſchiſms, rents, diviſions, what not? O thou believer, that profeſſeſt Chriſt, mind this word of Chriſt, theſe four firſt verſes of the Epiſtle to the <hi>Hebrews;</hi> Remember, that this fourth principle was firſt ſpoken by the Lord himſelf, and is plainly called, <hi>The word of the
+<note n="*" place="margin">Heb. 6.1.</note> beginning of Chriſt,</hi> and was confirmed by ſigns, and wonders, and miracles.</p>
+                  <p n="2">2. Miracles are given for conviction of Heathens, <hi>Act.</hi> 8.6. &amp; 16.27, 29, 30. But alas! this avails not at all, if love (manifeſted by obedience to all Chriſts commands) be wanting, 1 <hi>Cor.</hi> 13.2. A perſon may have this gift, and periſh.</p>
+                  <p>The third gift of this nature is extraordinary Propheſie, or foretelling of events; ſuch as may wonderfully poſſeſſe a <hi>Balaam,</hi> a <hi>Saul,</hi> a <hi>Caiaphas,</hi> a Witch; this may confirme truths, and convince ſinners, but the Prophet be damn'd; 'tis an
+<pb n="30" facs="tcp:118732:19"/>excellent gift in a gratious heart, but ſhort of ordinary Pro<g ref="char:EOLhyphen"/>pheſie.</p>
+                  <p>The fourth extraordinary gift (that is according to Court cuſtome not the chief) is kinds of tongues, not new tongues, for that is a ſpeciall gift peculiar to true believers; a reall ſign of an effectuall work of grace; for out of the abundance of the heart the mouth ſpeaketh,
+<note place="margin">Rev. 14.1.</note> wherefore thoſe 144000. Redeemed Virgins, are preſented with a new ſong in their mouth, which none elſe could learn.
+<note place="margin">Act. 17.19.</note> When once <hi>Paul</hi> becomes a Convert he Preacheth a new Doctrine; he was before a Blaſphemer, but now he hath learned a new leſſon. He is not a believer, that hath not learned a new language
+<note n="*" place="margin">Epheſ. 5.4.</note>.</p>
+                  <p>Theſe miraculous tongues are never called new tongues, but ſtrange tongues, and other tongues, to convince a ſtrange people; to preach to other Nations, as was needfull then, but now cannot well be employed, ſince Popiſh inquiſiti<g ref="char:EOLhyphen"/>ons, and Turkiſh ſlavery, hath ſhut the Goſpell out of their territories, <hi>Act.</hi> 13.46. Neither have Chriſts Miniſters any warrant to attempt the publiſhing of Goſpell truths in other Nations, who are known to be dogs, ſwine, and perſecutors, <hi>Mat.</hi> 7.6. &amp; 10.23.</p>
+                  <p>And therefore Satan, and not Gods Spirit, hath enga<g ref="char:EOLhyphen"/>ged ſome fooliſh deluded ſouls called Quakers to paſſe the Seas, in expectation probably of ſome miraculous ability to publiſh their poiſon againſt Chriſts Ordinances, but have only performed the work of Barbarians, and ſo re<g ref="char:EOLhyphen"/>turned.</p>
+                  <p>But certainly ſhould Chriſt call into forain parts, he would enable his ſervants to help ſick ſouls abroad, as well as to heal ſick bodies at home. Alas! our native Countrey hath need enough of more labourers.</p>
+                  <p>Wherefore (ſaith the Apoſtle) tongues are for a ſign, <hi>Not to them that believe,</hi>
+                     <note place="margin">1 Cor. 14.21.</note> but to them that believe not. This gift therefore belongs not to thee thou dear Diſciple of Chriſt, It is our mercy that the Ordinance I now contend for came once under hand and ſeal from heaven; our Maſters hand, and this ſign of tongues confirming it.</p>
+                  <pb n="31" facs="tcp:118732:19"/>
+                  <p>Since therefore this fourth Foundation Principle of thy Religion is thus by this miraculous gift ratified, and thy pre<g ref="char:EOLhyphen"/>tious ſoul converted; thouart not to expect ſuch needleſſe unſutable gifts as theſe, which Gods word tels thee are not convenient for thee; But fince the Spirit of truth hath more excellent treaſure, then tongues, or the interpretation of tongues; take thou the counſell of the Apoſtle,
+<note place="margin">1 Cor. 12.31.</note> 
+                     <hi>Covet earneſt<g ref="char:EOLhyphen"/>ly the beſt gifts, and yet ſhew I unto you a more excellent way;</hi> there are ſome gifts more excellent then others, and there are graces more excellent then any other gifts, the beſt gifts will be fewel to thy choice graces, and ſet thy heavenly heart all on a holy flame.</p>
+                  <p>Wherefore covet earneſtly the beſt gifts for this end. And fince 'tis evident that the golden gifts of Chriſt
+<note n="*" place="margin">Zech. 4.12.</note> paſſe through golden pipes or Ordinances, into the bowl of the Can<g ref="char:EOLhyphen"/>dieſtick, that is, the Church; put thy affectionate mouth to theſe pretious pipes, that contain ſuch pretious gifts, and draw with the buckets of joy out of the wels of ſal<g ref="char:EOLhyphen"/>vation.</p>
+                  <p>It is undeniable that this fourth foundation Doctrine of Chriſt is one of thoſe pipes, or channels, through which theſe eternall ſtreames do run; and doubtleſſe did not poor crea<g ref="char:EOLhyphen"/>tures (drownd in deluſions) conclude theſe ſtreams were dryed up, they would not neglect this pipe, this ordinance of hands, as they do. But ſo they think, and ſo they ſpeak, for ſay they, the power or gifts of the Spirit are ceaſed, and therefore the ordinance is of no uſe.</p>
+                  <p>Well, when I ſhall clearly demonſtrate, that the beſt gifts are to this day continued, as I have already proved that no gift is ceaſed, that is needfull for believers; And when it ſhall appear that theſe beſt gifts have been conveyed through impo<g ref="char:EOLhyphen"/>fition of hands; Then ſurely both the Ordinance and gifts will be earneſtly deſired, and affectionately embraced, by gra<g ref="char:EOLhyphen"/>tious ſouls.</p>
+                  <p>Theſe beſt gifts which being continued,
+<note place="margin">1 Cor. 12.8, 9, 10.</note> Saints ſhould covet, are
+<list>
+                        <item>1. Wiſdome.</item>
+                        <item>2. Knowledge.</item>
+                        <item>3. Faith.</item>
+                        <pb n="32" facs="tcp:118732:20"/>
+                        <item>4. Propheſie.</item>
+                        <item>5. Diſcerning of Spirits.</item>
+                     </list>
+                  </p>
+                  <p>It muſt be granted without controverſie, that theſe are the beſt gifts of the Spirit, and that they are continued in power and efficacy to this generation.</p>
+                  <p>And firſt of Wiſdome,
+<note place="margin">Prov. 4.7. Job 28.18. 2 Sam. 14.20.</note> which the eternall Spirit that gives it, hath recorded as the principall thing, and therefore it is here in the Catalogue of gifts deſervedly ſet in the firſt place; The price thereof is above Rubies, it's a defence bet<g ref="char:EOLhyphen"/>ter then ſtrength, it transformes the perſon ſo, that he ap<g ref="char:EOLhyphen"/>pears as an Angell of God. Marvellous encomiums of de<g ref="char:EOLhyphen"/>ſerved praiſe, are given by the Spirit to this moſt excellent gift; far ſurpaſſing all thoſe other gifts before mentioned, as Healing, Tongues, Miracles, <hi>&amp;c.</hi> which the devotion of a <hi>Didymus</hi> doth ſo much dote upon, making ſo great a noiſe in the world, ſo that all's loſt with ſuch a profeſſor, becauſe tongues are ceaſed, and miracles do not appear to ſatisfie his ſenſe. Ah poor ſhallow creatures, ſhadowes of Saints, that thus cry out as undone, for the want of what they may periſh with. Scarce one word of wiſdome to be heard; nay the very Ordinance which is moſt particularly deſigned for the conveyance of Spirituall gifts, muſt be cut off, though it be a foundation Principle becauſe they ſee not the prints of the nails, and ſpear.</p>
+                  <p>The power is gone, we want Apoſtles, the Fourth Prin<g ref="char:EOLhyphen"/>ciple is void, Gifts do not now appear, the power is gone.</p>
+                  <p>This is the great cry of theſe times, to cry down a founda<g ref="char:EOLhyphen"/>tion Doctrine of Chriſt. But let the true babes of Chriſt know to their comfort that the pwoer is not gone, ſo long as this gift, this beſt gift of the Spirit remains, which is better then they all. Wherefore get wiſdome thou believing obedient ſoul,
+<note place="margin">Prov. 4.7.</note> and with all thy getting, get underſtanding, forſake her not, and ſhe ſhall preſerve thee; love her, and ſhe ſhall keep thee; exalt her, and ſhe ſhall promove thee; ſhe ſhall bring thee to honour when thou doſt embrace her. He that thus counſels thee, hath richly experienced the truth of what he aſſures thee: he asked wiſdome, and God gave
+<pb n="33" facs="tcp:118732:20"/>him a large heart, and was ſo well pleaſed with his choice,
+<note place="margin">2 Chron. 1.10, 11, 12.</note> and deſire, that he added to his requeſt, the greateſt wealth, honour and royalty that ever was given to mor<g ref="char:EOLhyphen"/>tall man.</p>
+                  <p>This pretious gift ſhall conduct the true Chriſtian to the Bridegrooms Chamber, yea into his Maſters joy,
+<note place="margin">Matth. 25. Dan. 12.3.</note> where he ſhall ſhine as the brightneſſe of the Firmament, for he made wiſdome his choice, and uſed all means, all the appoint<g ref="char:EOLhyphen"/>ments of Chriſt to attain it, and did not finde thoſe pipes empty, which others ſlighted and neglected; but through thoſe channels his veſſell was filled, wherefore he now lifts up his head with confidence;
+<note place="margin">Heb. 5.9.</note> and Chriſt is become what he promiſed, even the authour of eternall ſalvation to his obedient ſoul. While thoſe who lived in the profeſſion of ſome (it may be many) truths, are found with empty veſſels, void of this excellent gift of wiſdome, as refuſing the channell through which it paſſeth; ſo that now,
+<note place="margin">Pſal. 45. Mat. 25.10, 11, 12.</note> when all too late, they would run to buy, the Bridegroom enters his royall chamber, the Bride with the wiſe Virgins attend him, and the door is ſhut, eternally ſhut; Lord, Lord, open to us, is all too late.</p>
+                  <p>Becauſe I have called and ye refuſed, (O read and trem<g ref="char:EOLhyphen"/>ble) <hi>Prov.</hi> 1.24, <hi>&amp;c.
+<note place="margin">Hoſ. 14. ult.</note> Who is wiſe and he ſhall understand theſe things? prudent and he ſhall know them? for the wayes of the Lord are right, and the juſt ſhall walke in them: but the tranſgreſſors ſhall fall therein.</hi>
+                  </p>
+                  <p>By this time poſſibly ſome gratious ſoul will confeſſe, that the beſt, and moſt excellent gifts of the Spirit are not ceaſed. But this powerfull, yea moſt powerfull operation is continued, in this principall gift of Wiſdome, and ſeeing the neceſſity of it, may poſſibly cry out, O help me to wiſdome or elſe I die! Which way is my beloved gone? in what path doth this moſt excellent gift of wiſdome paſſe? Why thou poor enquiring ſoul, it is the Prince of gifts thou enquireſt after, he is free, and I dare not confine him to any particular paſſage, he hath many walkes, but I can point thee out which way he hath gone, namely, in yonder path, which is one of his principall walks, termed Laying on of hands; 'tis a path of his own preparing, and indeed,
+<pb n="34" facs="tcp:118732:21"/>a foundation Doctrine of his own lips. His ſervant <hi>Joſhua</hi> found him in this very path, and therein obtained this precious gift of wiſdome, which for the excellency of it beares his own name, <hi>Deut.</hi> 34.9. <hi>And Joſhua the ſon of Nun was full of the Spirit of wiſdome; for Moſes had laid his hands upon him.</hi>
+                  </p>
+                  <p>Was this tranſcendent gift of the Spirit conveyed through the Laying on of <hi>Moſes</hi> hands?
+<note place="margin">Luk. 7.28.</note> Why, the leaſt Goſpell Mini<g ref="char:EOLhyphen"/>ſter is greater then <hi>Moſes.</hi>
+                  </p>
+                  <p>
+                     <hi>Object.</hi> But <hi>Joſhua</hi> was an Officer.</p>
+                  <p>
+                     <hi>Anſw.</hi> He was a great Captain indeed, and did conquer <hi>Canaan,</hi> but there is not a Diſciple of Chriſt, but is a greater Captain, even a King and a Prieſt, and conquereth the world; yea is more then a Conquerer through Chriſt. What<g ref="char:EOLhyphen"/>ſoever priviledges the chiefeſt in <hi>Moſes</hi> houſe enjoyed, even the leaſt member of Chriſts Kingdome is inveſted with; that is, to enter into the <hi>Sanctum Sanctorum,</hi> or moſt holy place with boldneſſe,
+<note place="margin">Heb. 10.19.</note> which was the peculiar priviledge of their high Prieſts.</p>
+                  <p>So that this way, even through impoſitions of hands hath the bleſſed Spirit communicated wiſdome, his moſt excellent gift.</p>
+                  <p>In the time of the Goſpell we finde the great Apoſtle of the Gentiles rich in this gift, <hi>A wiſe Master builder.</hi> And St. <hi>Peter</hi> greatly admires this gift of Wiſdome in him, 2 <hi>Pet.</hi> 3.15. <hi>Even as our beloved brother Paul alſo, according to the Wiſdome given unto him.</hi>
+                  </p>
+                  <p>
+                     <hi>Queſt.</hi> But when was this <hi>Wiſdome given unto him?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> At the ſame time when the Holy Ghoſt firſt filled him; that is, when the firſt Meſſenger was ſent for this (as the chief end) from the Lord Jeſus to him; <hi>Brother Saul</hi> (ſaid <hi>Ananias</hi>) <hi>the Lord Jeſus — hath ſent me, that thou mighteſt receive thy ſight, and be filled with the Holy Ghoſt, Act.</hi> 9.17. and accordingly the eyes of his mind (as well as of his body) were ſo enlightned with this choice gift of wiſdome, that he was able to preach Chriſt ſo, that all which heard him were amazed; he being ſo able preſently to prove that he which beſtowed this gift upon him, is the very Chriſt.</p>
+                  <pb n="35" facs="tcp:118732:21"/>
+                  <p>So that here we have the preciſe time when this wiſdome was given him.</p>
+                  <p>
+                     <hi>Queſt.</hi> But how, or by what means was this gift commu<g ref="char:EOLhyphen"/>nicated?</p>
+                  <p>
+                     <hi>Anſw.</hi> By that eſpeciall Ordinance through which other gifts of the ſame Spirit were conveyed by <hi>Peter,</hi> and <hi>John,</hi> and <hi>Paul</hi> himſelf, afterwards; that is, by impoſition of hands, <hi>Act.</hi> 9.17. <hi>And Ananias went his way and entered into the houſe, and putting his hands on him ſaid,</hi> &amp;c.</p>
+                  <p>So that here in two lively examples, the way and means of communicating this principall gift, is diſcovered to thy inquiring ſoul.</p>
+                  <p>I ſhall add no more at preſent concerning this gift, which I would be found in at the ſound of the great trumpet, but to counſell thee in the words of my Redeemer in another caſe, <hi>Go, and do thou likewiſe.</hi>
+                     <note place="margin">Luk. 10.31.</note>
+                  </p>
+                  <p>The ſecond beſt gift which is alſo continued to, and muſt be more and more encreaſed in the Saints (as we may ſee this day) is Knowledge, <hi>Dan.</hi> 12.4.</p>
+                  <p>As this is honoured in the next place to Wiſdome; ſo are they both lock'd up together for the newborn babe, in the richeſt Cabinet that heaven hath, even in the heart of the Lords Chriſt, and our Jeſus,
+<note place="margin">Col. 2.3.</note> 
+                     <hi>in whom are hid all the treaſures of Wiſdome and knowledge.</hi>
+                  </p>
+                  <p>This is one of thoſe choice acquirements for the building up of the Saints, which whoſoever wants is blind,
+<note place="margin">2 Pet. 1.5, 8.</note> and in a periſhing condition; <hi>My people are deſtroyed for want of knowledge,</hi> is the great Gods patheticall expreſſion, <hi>Hoſ.</hi> 4.6. Take heed therefore thou doſt not reject it, nor the means by, and through which it is attained; for as it is treaſured up in the ſame magazin or ſtorehouſe, ſo it runs in the ſame channel with wiſdome; that is, communicated through the ſame Ordinance; <hi>Then ſhall we know,
+<note place="margin">Hoſ. 6.3. Hab. 2.14.</note> if we follow on to know the Lord.</hi>
+                  </p>
+                  <p>Faith is the third continued gift, running through ſe<g ref="char:EOLhyphen"/>verall channels, that is, different adminiſtrations, from the ſame Lord.
+<note place="margin">1 Cor. 12.5.</note> But that ſaith which ſo runs as through Bap<g ref="char:EOLhyphen"/>tiſme,
+<pb n="36" facs="tcp:118732:22"/>Supper, Hands, and other Ordinances, I do not judge that foundation Principle (<hi>Heb.</hi> 6.) but a faith of aſſurance, <hi>Epheſ.</hi> 1.13. or the ſealing of the Spirit, which hath been communicated to ſome upon their purpoſe to obey Chriſt in this Ordinance, to others, whiles they have been under the adminiſtration of hands; to a third ſort immediately after, to divers at a greater diſtance; yea I have ſeen ſuch a preſence, and (with an eye which the naturall man never enjoyed) be<g ref="char:EOLhyphen"/>held ſo great a Majeſty in the adminiſtration of this fourth Principle, as hath conſtrained me to admire the mighty ope<g ref="char:EOLhyphen"/>ration of the Spirit, and to conclude that wonders are not totally ceaſed.</p>
+                  <p>Let babes in Chriſt covet earneſtly this great gift,
+<note place="margin">Gal. 2.20. Epheſ. 3.8. Hab. 3.17, 18. 1 Sam. 30.6. Mat. 21.22. Joſh. 10.12, 13. 1 Joh. 5.4. Iſa. 45.11.</note> and be found in all the means and wayes of obtaining it; for 'tis a Chriſt-exalting gift; a ſelf-abaſing gift; a ſoul-ſatisfy<g ref="char:EOLhyphen"/>ing gift; a heart-encouraging gift; a mercy-obtaining gift; a wonder-working gift; a world-conquering gift; a God-commanding gift.</p>
+                  <p>Now certainly, if I have ſpoken truth concerning this pre<g ref="char:EOLhyphen"/>tious gift of Faith, then it is not true which ſome have ſo confidently aſſerted; namely, that the powerfull operations of the Spirit are ceaſed. But I know, what they mean, <hi>viz.</hi> the viſible print of the nails, and ſpear, ſo that it appears to me, they believe little further then they ſee, and therefore ſlight this Doctrine of Laying on of hands.</p>
+                  <p>Which I think few will deny to be a notable means for the conveyance of the fourth continued ſpirituall gift, which is Propheſie.</p>
+                  <p>All ſpirituall gifts are beautifull in their place, but this rather to be deſired, for the edification of others, as the Apoſtle ſaith, 1 <hi>Cor.</hi> 14.1.</p>
+                  <p>I do not judge a perſon compleatly in Gods way, how eminent ſoever he be gifted, untill he have received this Ordi<g ref="char:EOLhyphen"/>nance of hands. I look upon the Church as neglecting her duty when omitting it, or employing perſons in the Admini<g ref="char:EOLhyphen"/>ſtration of Ordinances without it, and hiding her talents when ſhe doth not ſeparate ſuch perſons by it, as are fit for the Lords harveſt.</p>
+                  <pb n="37" facs="tcp:118732:22"/>
+                  <p>And I eſteem any man that ſets to the Miniſtery without it (if he may and doth not receive it) as running without his errand.</p>
+                  <p>Let none here miſtake me, as though I did confound the fourth Principle with Ordination; I know the one is an initiating Ordinance proper for babes,
+<note place="margin">2 Tim. 1, 6.</note> ſuch as <hi>Timothy</hi> re<g ref="char:EOLhyphen"/>ceived at the hands of <hi>Paul,</hi> by which often this gift of Pro<g ref="char:EOLhyphen"/>pheſie is communicated; which when it mounts to ſuch a flame, that the ſoul is conſtrained with the Prophet, <hi>Jer.</hi> 20.9. to cry out, <hi>I was weary with forbearing and I could not ſtay;</hi> Then I judge it the Churches duty to ſet upon this ſepara<g ref="char:EOLhyphen"/>ting adminiſtration, with ſaſting and prayer, according to pattern, <hi>Act.</hi> 13.2, 3. As the Elderſhip or Presbyterie, did to <hi>Timothy,</hi> 1 <hi>Tim.</hi> 4.14. Perſons thus deſigned to the work, are ſent out by the Holy Spirit, <hi>Act.</hi> 13.4. therefore prize it.</p>
+                  <p>The laſt ſtanding or continued gift here mentioned, is, Diſcerning of Spirits, which raiſeth the ſoul to a notable degree of ſpirituality
+<note n="*" place="margin">1 Cor. 2.14.</note>.</p>
+                  <p>No wonder then, that the Apoſtle urgeth the neceſſity of the Six Principles, as being the diſhes, in, and by which this ſpirituall gift is brought by degrees to the believing ſoul, which when he heartily feeds of, it is of that ſtrengthning nature, as transforming the Diſciple from a babe to a ſtrong man, <hi>Heb.</hi> 5. <hi>ult.</hi>
+                  </p>
+                  <p>'Tis no ſmall mercy to be able to try the ſpirits whether they be of God, and to know Chriſts voice from a ſtranger,
+<note place="margin">1 Joh. 4.1. Joh. 10. Mat. 7.15, 16.</note> a wolf from a ſheep.</p>
+                  <p>Since therefore the uſe and end of Laying on of hands, is for attaining the Spirit of Chriſt by degrees. And that I have ſo fully proved, that the choiceſt gifts of the Spirit are as largely (that I ſay not more liberally) handed to believers now as ever, and that theſe heavenly gifts are ſo clearly communicated through this Ordinance of hands; Let my counſell be acceptable to thee, if ever thou deſireſt thy friends ſociety, get thee to his place of abode, that is,
+<note place="margin">Can. 1.8.</note> forth by the foot ſteps of the flock, and feed thy kids beſides the ſhepheards tents.</p>
+                  <pb n="38" facs="tcp:118732:23"/>
+                  <p>There he makes his flock to reſt at noon. There he will give thee his loves, not every where, but in wayes of his own appointment.</p>
+                  <p>His flock have left thee fair prints of their footſteps both in Doctrine and practiſe; A goodly flock hath the Shepherd of <hi>Iſrael,</hi> whoſe faith follow, and lean not to thine own un<g ref="char:EOLhyphen"/>derſtanding.</p>
+                  <p>Say not the Lords hands is ſhortned, or his power ceaſed; thou ſeeſt his richeſt gifts are continued to thee, and many more then I have mentioned, as the ſpirit of grace and ſupplication,
+<note place="margin">Zech. 13.10.</note> the gift of ſuffering, <hi>Phil.</hi> 1.29. of courage and boldneſſe, <hi>Act.</hi> 4.10, 13. and ſun<g ref="char:EOLhyphen"/>dry others.</p>
+                  <p>Be not wanting to thy ſelf in ſlighting this or any Or<g ref="char:EOLhyphen"/>dinance, through which Chriſt is pleaſed to convey his gift.
+<note place="margin">Jonah 2.8.</note> They that obſerve lying vanities, forſake their own mercy.</p>
+                  <p>If there be any breathings in thy ſoul after theſe ſpiritu<g ref="char:EOLhyphen"/>all treaſures which will ſtand thee in ſtead when the trumpet ſounds, get thee to the Merchants now, if thou drive off thy bargain till then the door will be ſhut. Poſſibly thou mayeſt think this Ordinance of hands not worth half my writing, or thy reading I am ſure my pains is the greater, and I do not think it too much to clear up an Ordinance whereby Chriſt hath ſweetly refreſhed my ſoul; I know it hath long lien ſullied amongſt the Romiſh pots.
+<note place="margin">Pſal. 68.13. Iſa. 60.8.</note> But God can give it the wings of a dove to thy boſome to engage thy dove-like ſoul to flie (though in clouds) to thy windowes.</p>
+                  <p>What if thou ſhouldeſt look upon this Ordinance with a contemptible eye,
+<note place="margin">Joh. 9.6, 7.</note> and eſteem it no better then clay and ſpittle, yet uſe it, becauſe 'tis the Doctrine or word of Chriſt; poſ<g ref="char:EOLhyphen"/>ſibly it may clear thy ſight.</p>
+                  <p>Thou haſt many pretious Lambs of Chriſt in view, that have led thee the way through this adminiſtration, as <hi>Peter, John, Paul, Ananias,</hi> and thouſands more, who continued ſtedfaſtly in this and all the reſt of the Apoſtles Doctrine.</p>
+                  <p>And remember that thou art commanded to obſerve and do all things whatſoever Chriſt commanded his Diſciples
+<pb n="39" facs="tcp:118732:23"/>in thoſe dayes, ſo ſhalt thou be ſure of the preſence of Chriſt whoſe favour ſoever thou loſeſt. So ſhalt thou approve thy ſelf a new-born-babe, a new Creature, a friend of Chriſt. And as many as walke according to this rule, peace be on them, and mercy, and upon the Iſrael of God.</p>
+               </div>
+               <div type="subpart">
+                  <p>
+                     <hi>I muſt now return to the Gent. my Antagoniſt, to wipe off thoſe Abſurdities, which he ſaith muſt of neceſſity follow this practiſe.</hi>
+                  </p>
+                  <p>Firſt, We lay no unfaithfulneſſe upon Chriſt, nor advance <hi>Moſes</hi> above him, ſince Chriſt hath not left us to doubtfull ſuppoſitions (as the Gent. ſpeaks) for the inſtitution of this practiſe of Laying on of hands is ſubſtantially proved from the mouth of Chriſt.</p>
+                  <p>Secondly, Neither do we lay a lie upon <hi>Paul,</hi> who hath declared this Principle as a part of the counſell of God, and ſo to be practiſed by Chriſts Miniſters, 2 <hi>Tim.</hi> 2.2.</p>
+                  <p>Thirdly, We have both commands and promiſes, and therefore can act in faith in this Ordinance, as is already fully proved.</p>
+                  <p>Fourthly, We have given ſubſtantiall grounds of our hope, in this point, to the ſtopping the mouths of gainſayers, let ſuppoſitions go to the ſuppoſers.</p>
+                  <q>As for the Gentlemans two Apoſtolicall acts, which he ſaith we croſſe, if there were any thing worth noting it would fall fall upon himſelf; for</q>
+                  <p>I ſuppoſe he is but an imitator of the Act in Preaching, but cannot carry on the end, inſomuch as he wants the power they had (if it be a want.)</p>
+                  <p n="2">2. They were as much amazed at the power of the Spirit in <hi>Peters</hi> Preaching (<hi>Act.</hi> 10.44, 45.) and more, then <hi>Simon Magus</hi> was. Neither can the Gent. imitate <hi>Peters</hi> Preaching, any more then I can their impoſing hands; he hath neither
+<pb n="40" facs="tcp:118732:24"/>received like power, neither is he able to carry on the like end (as he phraſeth it) nor do any thing in Preach<g ref="char:EOLhyphen"/>ing, but what men as men may do. And whatever of this nature he brings forth is equally applicable to his own practiſe of Preaching. Really the Gent. writes more like a Notioniſt, Quaker, or Seeker, then a ſetled Chriſtian; I wiſh he were throughly weaned from thoſe wandrings; for why doth he raiſe ſuch a duſt about waiting for the power and re<g ref="char:EOLhyphen"/>ceiving the power, of being imitators of the act, but cannot carry on the end?</p>
+                  <p>Let all that fear the great God and tremble at his glori<g ref="char:EOLhyphen"/>ous word, and have any love to his Ordinances, conſider whither this Gent. would lead them.</p>
+                  <q>He ſaith, <hi>The Apoſtles had power before to Preach and Baptize with water, yet before they did this (Lay on hands) the muſt wait for power, and that an eminent glorious power at Jeruſalem,</hi> and he quotes <hi>Luk.</hi> 24.49.</q>
+                  <p>
+                     <hi>Anſw.</hi> Here are big words, and ſmooth words, to deceive the hearts of the ſimple, <hi>Rom.</hi> 16.17, 18. But I do utterly deny them to be the words of truth.</p>
+                  <p>For why doth he? how durſt he quote <hi>Luk.</hi> 24.49. and yet ſo confidently aſſert they had power to preach be<g ref="char:EOLhyphen"/>fore?</p>
+                  <p>Let him, and thoſe dear friends he writes to, (if they be not willing to be deluded) look two verſes backward, <hi>viz. Luk.</hi> 24.47. and they ſhall ſee that the Apoſtles had no power to preach upon the account of their full and great commiſſion, untill this power came. For thus ſpeaks the Lord Jeſus — <hi>And that repentance and remiſſion of ſins ſhould be preached in his name,
+<note place="margin">Luk. 24.47, 48, 49.</note> among all Nations, beginning at Jeruſa<g ref="char:EOLhyphen"/>lem. — And behold I ſend the promiſe of my Father upon you, but tarry ye in the City of Jeruſalem, untill ye be endued with power from on high.</hi>
+                  </p>
+                  <p>Now friends in the name of Chriſt conſider whether the Gent, hath declared truth in ſaying they had power to Preach and Baptize before, upon the account of their laſt Commiſſion? for that only he relates to in quoting <hi>Luk.</hi>
+                     <pb n="41" facs="tcp:118732:24"/>24.49. their former Preaching and Baptiſme being at that time utterly void, as you may clearly ſee by comparing theſe Scriptures, <hi>Mat.</hi> 10.5, 6. with <hi>Mat.</hi> 28.18, 19, 20. and <hi>Luk.</hi> 22.35, 36. and <hi>Act.</hi> 19 4. Their former work was to preach, <hi>The Kingdome of God is at hand.</hi> But now,
+<note place="margin">Mat. 5.7.</note> 
+                     <hi>The King<g ref="char:EOLhyphen"/>dome of God is come with power, Mark.</hi> 9.1. <hi>Luk.</hi> 24.49. and ſuch as was their Preaching, ſuch was their Bap<g ref="char:EOLhyphen"/>tiſme.</p>
+                  <p>But here I muſt challenge the Gent. to make good his word, that they did ever preach one Sermon, or ever Baptize one perſon, before this power came, or elſe he hath but deluded you, in making you believe that there is need of a greater power for adminiſtring the Ordinance of Laying on of hands, then there needs for Preaching, and Bap<g ref="char:EOLhyphen"/>tiſme, for that is his full ſcope and deſign, in which I appeal to any ingenuous ſoul. Nay, I appeal to him<g ref="char:EOLhyphen"/>ſelfe.</p>
+                  <p>Secondly, He would perſwade perſons (but then they muſt be very ignorant) that the Miraculous viſible power, is the eſſence of the Ordinance.</p>
+                  <p>Whereas I have abundantly proved that the command of Chriſt gives eſſence to the Ordinance, and that the commu<g ref="char:EOLhyphen"/>nicating of the Spirits gifts is the full end of the Ordinance to obedient ſouls for Chriſts honour.</p>
+                  <p>And I have alſo proved, That the Spirit hath commu<g ref="char:EOLhyphen"/>nicated better gifts and more glorious power through this Ordinance, then ever were or can be viſible to a naturall eye, 1 <hi>Cor.</hi> 2.9. <hi>ad finem;</hi> and that the ſame gifts ſtill remain, for which by all means we ſhould endevour.</p>
+                  <p>Thus I hope 'tis evident that the ſame power is requi<g ref="char:EOLhyphen"/>ſite for Preaching, Baptiſm, and other Goſpell Ordinances, as for Laying on of hands, and that the very ſame power hath accompanied Preaching, as hath attended the fourth Prin<g ref="char:EOLhyphen"/>ciple, and as often hath it appeared in the one, as in the other.</p>
+                  <p>Wherefore conſider in the name of the Lord what a deſign is here laid to raſe the foundation of all Ordinances, and <hi>level</hi> them with the duſt? And indeed what preſumption is it for the Gent. to Preach, Baptize, break-bread, <hi>&amp;c.</hi> and yet
+<pb n="42" facs="tcp:118732:25"/>want the eſſence of theſe Ordinances; if it were true as he holds forth, that the viſible miraculous power of the Spirit were the eſſence of Ordinances?</p>
+                  <q>But to the Gent. fifth abſurdity, which he ſaith is <hi>injurious to Jeſus Chriſt who brings forth an act to ſhew his power, and yet we having not the power, do imitate the act turning acts of power into bare imitation, and ſo are injurious to Chriſts intention.</hi>
+                  </q>
+                  <p>
+                     <hi>Anſw.</hi> 1. All the acts which Chriſt brings forth are acts of power, ſince all power in heaven and earth is put into his hand, we profeſſe he cannot act unlike himſelf, therefore we are ſlandered in being charged as injurious to Chriſt.</p>
+                  <p n="2">2. The great power Chriſt intends in all the acts he brings forth, is to convert ſouls, theſe acts are thoſe greater works which Chriſt promiſed his Saints ſhould performe, <hi>Joh.</hi> 14.12. and theſe are the mighty ſignes of true Apoſtles, 1 <hi>Cor.</hi> 9.1, 2. &amp; 2 <hi>Cor.</hi> 3.2, 3. Whoſoever therefore is inabled to perform theſe greater works, is ſo far from being injurious to Chriſt, that he fully anſwers Chriſts intention, for herein Chriſts greateſt power is put forth, and ſhines moſt gloriouſly, and they that are inſtrumentall thus in bearing up his name and power in the world, ſhall at laſt ſhine as the brightneſſe of the Firmament,
+<note place="margin">Dan. 12. 1 Pet. 5.5.</note> and receive at his hands a Crown of glory that fadeth not away.</p>
+                  <p n="3">3. I have already fully proved, that thoſe externall viſi<g ref="char:EOLhyphen"/>ble gifts of the Spirit, which Carnall Chriſtians, and di<g ref="char:EOLhyphen"/>ſtruſtfull <hi>Didymuſſes</hi> do ſo ſtrangely dote upon, are not the greateſt acts of Chriſts power, thoſe prints of the nailes and ſpear, are but Chriſts condeſcenſions to weak Chriſtians. Thoſe tongues which were given once (and but once that we know of) in the laying on of hands, and in Preaching, although the Gent. do ever ſo highly magnifie them amongſt profeſſors, and believers, ſo as to raſe the foundation of a foundation principle, becauſe he ſees not that ſign of tongues, doth but feed his hearers with food that is not for them. If we dare but give credit to that wiſe maſter builder,
+<pb n="43" facs="tcp:118732:25"/>he will clearly ſhew us what an unwiſe ſteward is this Gent.
+<note place="margin">Mat. 24.45. Luk. 12.42.</note> what an unfaithfull ſervant, not dividing the word of truth aright, not giving them their portion of meat in due ſeaſon.
+<note place="margin">2 Tim. 2.15.</note> But indeed ſetting them a gaping for ſuch food as Chriſt in<g ref="char:EOLhyphen"/>tends not for them. <hi>Tongues being for a ſign,
+<note place="margin">1 Cor. 14.22.</note> Not to them that be<g ref="char:EOLhyphen"/>lieve, but to them that believe not.</hi>
+                  </p>
+                  <p>And while they are thus buſily enquiring after the viſible power, the ſigns, the miracles, (like that impertinent queſtion <hi>Act.</hi> 1.6.) they are robbed of that proper, powerful, food that Chriſt hath fitted for his table gueſts, and conveyed through laying on of hands; that true Manna, which who<g ref="char:EOLhyphen"/>ſoever feeds upon ſhall never die. I mean thoſe beſt gifts which true Chriſtians ought earneſtly to covet, and uſe all means to procure; as Wiſdome, Knowledge, Faith, Propheſie, Prayer, and the reſt, wherein the mighty Al<g ref="char:EOLhyphen"/>mighty power of Chriſt is put forth, and which ſundry believing ſoules have felt, and found, in this Ad<g ref="char:EOLhyphen"/>miniſtration of hands, ſome eminently, and ſpeedily, others more obſcurely, and by inſenſible degrees The bleſſed Spirit dividing to every man ſeverally as he will; that is, What he will, how he will,
+<note place="margin">1 Cor. 12.11.</note> and when he will.</p>
+                  <p>Laſtly, I muſt declare that the Gent. and others, making ſo much noiſe about the viſible Power, the miraculous Power, the externall glorious Power, <hi>&amp;c.</hi> do but hereby proclaime their own unbelief: The Apoſtle plainly telling us that tongues are for a ſign, not to believers, but to unbelievers, as above.</p>
+                  <p>Secondly, As for that reproof in <hi>Iſa.</hi> 1.12. I have already ſpoke to it, and the God of heaven make it a warning to him, that he may ceaſe to re<g ref="char:EOLhyphen"/>proach the wayes, ordinances, and ſervants of Chriſt.</p>
+                  <q>And as for Gods demand, how we know <hi>Heb.</hi> 6.2. is meant to lay hands on all Diſciples; though the
+<pb n="44" facs="tcp:118732:26"/>Gent. ſayes we can but anſwer <hi>we think ſo,</hi> and how ſad that would be.</q>
+                  <p>I anſwer,</p>
+                  <p>We can confidently tell him (for God will make no ſuch idle demands) that we know ſo, we know the fourth Princi<g ref="char:EOLhyphen"/>ple belongs to all Diſciples.</p>
+                  <p n="1">1. Becauſe it is one of the firſt Doctrines or Words of Chriſt.</p>
+                  <p n="2">2. Becauſe it's one of the foundation Principles for Chri<g ref="char:EOLhyphen"/>ſtians.</p>
+                  <p n="3">3. Becauſe it's plainly called milk for babes, Indefi<g ref="char:EOLhyphen"/>nitely.</p>
+                  <p n="4">4. Becauſe the Miniſters of Chriſt taught and practiſed it to all his.</p>
+                  <p n="5">5. Becauſe Chriſts babes have need of it, God himſelf hath ſpoken it, and therefore will never queſtion us for ob<g ref="char:EOLhyphen"/>ſerving the Apoſtles writings and teachings,
+<note place="margin">1 Cor. 11.37.</note> which his holy Spirit hath teſtifyed are his own commands.</p>
+                  <q>Thirdly the Gent. would have us conſider, <hi>How unlike this practiſe is to the primitive Churches, and to</hi> Philip, <hi>Act.</hi> 8.12, 13. <hi>who wrought miracles, more then we can do, and Baptized with water, but left the Laying on of hands to the Apostles, Act.</hi> 8.14.</q>
+                  <p>
+                     <hi>Anſw.</hi> 1. We have diligently conſidered, and through grace found our ſelves in the very ſteps of the primitive Churches, whereof ſome are particularized as the Church of <hi>Samaria,</hi> the Church of <hi>Epheſus,</hi> the Churches of <hi>Judea,</hi> or the <hi>Hebrewes,</hi> who were taught and continued ſtedfaſtly in the Apoſtles Doctrine, they being care<g ref="char:EOLhyphen"/>full to ſettle the ſame order in all Churches: Eſpecially in foundation Principles, upon which all the Saints are built.</p>
+                  <p>
+                     <hi>Now therefore ye are no more ſtrangers and forainers,
+<note place="margin">Epheſ. 2.19, 20.</note> but fellow-citizens with the Saints, and of the houſhold of God; and are built upon the foundation of the Apoſtles, and Pro<g ref="char:EOLhyphen"/>phets,
+<pb n="45" facs="tcp:118732:26"/>Jeſus Chriſt himſelfe being the chiefe corner-ſtone.</hi>
+                  </p>
+                  <p n="2">2. It's too bold to ſay that <hi>Philip</hi> left Laying on of hands to the Apoſtles, when it was the ſpeciall work of God to employ <hi>Philip</hi> ſuddainly in the mighty ſervice of converting that noble <hi>Aethiopian,</hi> whom Hiſtorians record to be ſo famous in converting his whole Nation.</p>
+                  <p>But ſecondly, What a deal of ſtir here is to ſet up the poor weak inſtrument, as though there were any power or virtue in one Miniſters hands more then another, or in one Ordinance then another? Why, this is nothing but the old Pope and Prelate, masking in a new habit. Let the eternall Spirit determine, what difference there is between <hi>Peter</hi> and <hi>Philip</hi> (I ſhall offer no violence to the text, only change names a little) 1 <hi>Cor.</hi> 3.5, 6, 7, 8. Who then is <hi>Peter,</hi> and who is <hi>Philip,</hi> but Miniſters by whom ye believed, even as the Lord gave to every man? <hi>Philip</hi> planted, <hi>Peter</hi> and <hi>John</hi> watered, but God gave the increaſe. So then, neither is he that planteth any thing, neither he that watereth, but God that giveth the increaſe.</p>
+                  <p>
+                     <hi>Now he that planteth, and he that watereth are one.</hi>
+                  </p>
+                  <p>And one would think this ſhould ſatisfie an honeſt hum<g ref="char:EOLhyphen"/>ble heart in this matter.</p>
+                  <p>But thirdly, <hi>Philip</hi> was an Evangeliſt, in the very ſame rank with <hi>Timothy,</hi> and it cannot be denyed but laying on of hands was the work of an Evangeliſt, 1 <hi>Tim.</hi> 5.22. <hi>Lay hands ſuddenly on no man.</hi>
+                  </p>
+                  <p>Fourthly,
+<note place="margin">Act. 9.17.</note> Doubtleſſe <hi>Philip</hi> had as much authority as <hi>Ananias;</hi> for it is confidently aſſerted by ſome, that <hi>Ananias</hi> was but a bare Diſciple, though 'tis a wild aſſertion, but let that paſſe at preſent. Well, certain it is, <hi>Ananias</hi> who had power to Baptize, had equall power to lay hands upon <hi>Paul,</hi> upon a twofold account.</p>
+                  <p n="1">1. For the cure of his body.</p>
+                  <p n="2">2. For the filling of him with the holy Ghoſt. The very end, and uſe of this fourth Foundation Prin<g ref="char:EOLhyphen"/>ciple.</p>
+                  <p>
+                     <hi>Paul</hi> was at preſent but a new-born-babe, learning and ob<g ref="char:EOLhyphen"/>ſerving, or practiſing his Principles. I hope none will pre<g ref="char:EOLhyphen"/>ſume to ſay that this main end of <hi>Ananias</hi> impoſing hands,
+<pb n="46" facs="tcp:118732:27"/>that <hi>Paul</hi> might be filled with the Holy Spirit, was any or<g ref="char:EOLhyphen"/>dination to office, unleſſe they will be wiſe above what is written.</p>
+                  <p>
+                     <hi>Paul</hi> was not then Baptized, and not likely to re<g ref="char:EOLhyphen"/>ceive ordination before his Foundation Principles were laid.</p>
+                  <p>Beſides, Certain it is, that his ſolemne Ordina<g ref="char:EOLhyphen"/>tion, by impoſition of hands, was long after, namely, <hi>Act.</hi> 13.</p>
+                  <p>But Laſtly, <hi>Philip</hi> being an Evangeliſt, was not inferiour to the ſetled elders, or Presbytery
+<note n="*" place="margin">1 Tim. 4.14.</note>, and they had authority to impoſe hands.</p>
+                  <p>If any ſhall object, That was in Ordination.</p>
+                  <p>I ſhall only anſwer this, That ſtrong meat for men is not inferior to milk for babes.</p>
+                  <p>But enough hath been ſaid, to prove Chriſts Miniſters e<g ref="char:EOLhyphen"/>quall in power.</p>
+                  <q>The Gent<hi rend="sup">s</hi>. laſt Conſideration, warneth his dear friends of the danger of turning <hi>Acts of Power into bare imitation and want the power,</hi> quoting, <hi>Act.</hi> 19.13, 14, 15, 16. <hi>Exod.</hi> 7. to 13. &amp; 8.16, 17, 18, 19.</q>
+                  <p>
+                     <hi>Anſw.</hi> 1. I know no power that was ever put forth in Laying on of hands, more then there was in Preaching. <hi>Act.</hi> 10.44, 45. How dare he then imitate them in Preaching and want the power?</p>
+                  <p n="2">2. I know no power any man hath to Preach Authori<g ref="char:EOLhyphen"/>tatively, <hi>Tit.</hi> 2.15. but the ſame perſon hath by the ſame Commiſſion power to carry on all Ordinances that ever Chriſt commanded. <hi>Paul</hi> and <hi>Apollo</hi> are equall in power, 1 <hi>Cor.</hi> 3.5, 6, 7.8. Here <hi>Paul</hi> is the planter, and <hi>Apollo</hi> the waterer. In <hi>Act.</hi> 8. <hi>Philip</hi> is the planter, and <hi>Peter</hi> with <hi>John</hi> the waterers. Now by the Gent<hi rend="sup">s</hi> arguing from <hi>Act.</hi> 8. <hi>Apollo</hi> beares the bell away from <hi>Paul</hi> in point of power. But the Spirit of God ſaith, they are equall, <hi>One. Ana<g ref="char:EOLhyphen"/>nias</hi> had power to Baptize, <hi>Ananias</hi> had power to impoſe hands.</p>
+                  <pb n="47" facs="tcp:118732:27"/>
+                  <p n="3">3. Thrre were certain Conjurers cudgel'd by the Devill, <hi>Act.</hi> 19. for calling on the name of Jeſus whom they ab<g ref="char:EOLhyphen"/>horred.</p>
+                  <p>And a ſort of Sorcerers, whoſe ſerpents, <hi>Moſes</hi>'s ſerpent devoured.</p>
+                  <p>But were ever any Goſpell Miniſters in the leaſt reproved for adminiſtring any of Chriſt Ordinances?</p>
+                  <p>Why, thoſe Vagabond exorciſts knew not, believed not Jeſus; how then ſhould they call on him
+<note n="*" place="margin">Rom. 10.14. 1 Joh. 2.3, 4.</note>? but we know him, and obey him, as we are able. <hi>And hereby we know that we know him, if we keep his Commandements. He that ſaith I know him, and keepeth not his Commandements, is a lyar, and the truth is not in him.</hi>
+                  </p>
+                  <p>He will never charge us with ſin for obſerving all things whatſoever he commanded his Apoſtles.</p>
+                  <p>He never commanded his Apoſtles to teach his Churches that it was neceſſary to have ſuch miniſters, as muſt either do miracles, or elſe they muſt not adminiſter all Ordinances to the end of the world. But he layes down plain directions how Miniſters muſt be qualifyed, 1 <hi>Tim.</hi> 3. <hi>Tit</hi> 1. not one ſyllable of miracles or tongues.</p>
+                  <p>And yet they are bound to teach the ſame things,
+<note place="margin">2 Tim. 2.2.</note> that <hi>Paul</hi> and <hi>Timothy</hi> did, amongſt which I am ſure Laying on of hands was one.</p>
+                  <p>To conclude, leſt the Gent<hi rend="sup">s</hi>. buſtle about imitation of Chriſt and his Apoſtles, in carrying on Goſpell Ordi<g ref="char:EOLhyphen"/>nances, without power to confirme them ten thouſand times over, with new miracles; I ſay leſt this noiſe and duſt ſhould weaken the hands, and blear the eyes of Chriſts enquiring ones, ſo as to have a ſlight eſteem of Chriſts commands, ſince all Goſpell Ordinances, and Miniſters have equall au<g ref="char:EOLhyphen"/>thority;</p>
+                  <p>Let it be remembred that thoſe Divine writings and Ordinances which our deceaſed husband left as Le<g ref="char:EOLhyphen"/>gacies, for the tryall of our love to our firſt love, in remembrance of his ſad ſufferings till his ſecond coming, were all confirmed once unto us by ſignes and wonders.</p>
+                  <pb n="48" facs="tcp:118732:28"/>
+                  <p>And being thus ratified under hand and ſeal, by him whoſe Kingdomes, Lawes, are leſſe mutable then the Laws of <hi>Medes</hi> and <hi>Perſians,</hi> it is not for us to queſtion them, but teſtifie our love,
+<note place="margin">Joh. 14.15. &amp; 15.14.</note> and friendſhip by obſerving them, even all of them.</p>
+                  <p>Remember the pattern of heavenly things, I mean thoſe Moſaicall adminiſtrations,
+<note place="margin">Heb. 10.1.</note> which were a ſhadow and no more of what we now enjoy.</p>
+                  <p>But whatſoever was written aforetime, was written for our Learning.</p>
+                  <p>And therefore at the giving and writing of the Law, migh<g ref="char:EOLhyphen"/>ty ſigns and wonders were wrought in the ſight of <hi>Iſrael,</hi> and <hi>Egypt.</hi>
+                  </p>
+                  <p>So at the giving and writing of the Goſpel ſigns and won<g ref="char:EOLhyphen"/>ders from heaven confirm'd it, in the ſight both of Chriſtians and Heathens.</p>
+                  <p>But at the <hi>Jews</hi> return from <hi>Babylon,</hi> not one miracle wrought, and yet the people obſerve all their ordinances, yea ſome that were diſcontinued hundreds of years.
+<note place="margin">Neh. 8.16, 17.</note> We are now returning out of <hi>Babylon,</hi> praiſed be God, let us embrace all our ordinances with thankfulneſſe, without expecting new miracles to confirm them.</p>
+                  <p>It's true, all our Ordinances have been diſcontinued many hundreds of years during the time of Popiſh Apoſtaſie, or elſe in an Antichriſtian garb, have they been adminiſtred to falſe ſubjects. Yet even in the darkeſt times of the Beaſts rage, did the Lord preſerve himſelf a remnant, that held faſt his truth in ſome corners; perhaps by fifties in a Cave: for the woman had a being though in a wilderneſſe, ſack<g ref="char:EOLhyphen"/>cloth condition,
+<note place="margin">Revel. 12.</note> all that 1260. years, being nouriſhed there with her own proper food, the ſincere milk of the Word, the Scriptures of the old and new teſtaments, which are none other then thoſe two witneſſes appointed of God to ſeed her
+<note n="*" place="margin">Joh. 5.39. Jer. 15.16.</note>.</p>
+                  <p>And at her approach into the open light, and cheerfull day of liberty (which ſhine moſt gloriouſly under this happy Government we now enjoy) being by degrees freed from that impoſing, perſecuting Babyloniſh thraldome<g ref="char:punc">▪</g> ſhe ſearcheth thoſe divine records, her own peculiar trea<g ref="char:EOLhyphen"/>ſure,
+<pb n="49" facs="tcp:118732:28"/>and portion, and like thoſe <hi>Nehem.</hi> 8.14. what ſhe findes written in that law, ſhe obeyes, ſtep by ſtep, as God diſcovers truth, without expecting new miracles to confirm it; and at length hath found out, and laid this fourth Principle in its proper place. Yet ſome have branded this pretious Ordinance in Print, as <hi>A new Admini<g ref="char:EOLhyphen"/>ſtration.</hi>
+                  </p>
+                  <p>But really I ſtand amazed that their conſciences did not give their pen a check; ſince 'tis ſo evident that <hi>Peter,</hi> and <hi>John,</hi> and <hi>Paul,</hi> and <hi>Ananias,</hi> and thouſands more, were found in this practiſe, ſixteen hundred years ago, and did moſt faithfully teach the ſame doctrine as one of the ſix foundati<g ref="char:EOLhyphen"/>on Principles of Chriſtian Religion; as the proper food or milke for babes, yong beginners in Chriſtianity, to whom the Epiſtle to the <hi>Hebrewes</hi> is chiefly written, nay on<g ref="char:EOLhyphen"/>ly written.</p>
+                  <p>For although it is clear that thoſe <hi>Hebrew</hi> or <hi>Judean</hi> Churches, had officers ſetled amongſt them, whom they are exhorted to remember, as thoſe that had the rule over them, <hi>&amp;c. Heb.</hi> 13.7. and to obey them, and ſubmit to them, <hi>verſ.</hi> 17. Yet was not this Epiſtle written to thoſe Officers, or Rulers, or Miniſters, or Angels (like the 7. Epiſtles to the <hi>Aſian</hi> Churches <hi>Rev.</hi> 2, &amp; 3.) but only to the members of thoſe Churches; as is moſt evident by the cloſe of that Epiſtle, where this exhortation or injunction is laid upon thoſe babes; <hi>Heb.</hi> 13.24. <hi>Salute all them that have the rule over you.</hi>
+                  </p>
+                  <p>Had this been wiſely conſidered, the adverſaries of this fourth Principle would not ſo much have betrayed their weakneſſe, and diſcovered their nakedneſſe, as with ſuch con<g ref="char:EOLhyphen"/>fidence to aſſert that the Doctrine of hands <hi>Heb.</hi> 6. belongs only to the Miniſtery.</p>
+                  <p>The wiſeman cryes out,
+<note place="margin">
+                        <hi>Eccl.</hi> 10.16.</note> 
+                     <hi>Woe to thee O Land when thy King is a child.</hi> I may much more ſadly apply it to Churches, if our adverſaries ſpeak truth that the fourth Principle <hi>be<g ref="char:EOLhyphen"/>longeth to Miniſters. Woe to thee O Church when thy Elders (or Biſhops) are babes:</hi> Yea ſuch babes as are unskilfull in the word of righteouſneſſe, <hi>Heb.</hi> 5.13. And yet it's as clear as the Sun, that this Principle (among the reſt) is to be uſed by
+<pb n="50" facs="tcp:118732:29"/>ſuch babes <hi>as are unskilfull in the word of righteouſneſſe.</hi> Where<g ref="char:EOLhyphen"/>fore let our adverſaries pretend never ſo much ability, or eminency, or experience to teach others; I dare boldly aſſert, that untill ſuch time as God ſhall draw out their hearts to uſe this milk of the fourth Principle, <hi>they are but unskilfull in a Foundation Doctrine of the word of righteouſneſſe;</hi> And truly that's exceeding ſad, if we conſider, <hi>Tit.</hi> 1.9.</p>
+                  <p>Well then; to weaklings in the faith, to young Diſciples hath Chriſt deſigned this <hi>A B C.</hi> Doctrine of ſix principles, to be laid as their firſt foundation upon himſelf, <hi>Epheſ.</hi> 2.20. which is ſo far from being <hi>A new Adminiſtration</hi> (as our An<g ref="char:EOLhyphen"/>tagoniſts term this fourth Principle by way of deriſion) that what we contend for, is one of the words of the be<g ref="char:EOLhyphen"/>ginning of Chriſt;
+<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Heb. 6.1.</note> one of thoſe firſt things which Jeſus began to do and teach, which are not ſet down particularly by the Evangeliſts (for if they ſhould be written every one, it's ſuppoſed the world could not contain them, <hi>Joh.</hi> 21.25) this is one of thoſe Commandements which Chriſt gave to his Apoſtles after his reſurrection, one of thoſe things that he ſpake to them concerning the Kingdome of God, <hi>Act.</hi> 1.1, 2, 3. for as Chriſt was forty dayes inſtructing <hi>Moſes</hi> in <hi>Sinai,</hi> how to govern his houſe under the Law; ſo he was forty dayes inſtructing his Apoſtles in <hi>Sion,</hi> how to order his houſe under the Goſpell, not writing his Lawes (then) with inke and paper, or in tables of ſtone, but acccor<g ref="char:EOLhyphen"/>to the tenour of the new Covenant, he did engrave them in their minds,
+<note place="margin">Heb. 8.10.</note> and write them in their hearts, with this full aſſurance (upon the word of a King) <hi>Joh.</hi> 14.26. that his holy Spirit ſhould bring all things to their remembrance, whatſoever he had ſaid unto them; ſo that he hath been ex<g ref="char:EOLhyphen"/>actly faithfull in all his houſe, <hi>Heb.</hi> 3.</p>
+                  <p>As truly therefore as Chriſt gave them Commandements, (<hi>Act.</hi> 1.2.) ſo truly are thoſe things which the A<g ref="char:EOLhyphen"/>poſtles taught, <hi>Act.</hi> 2.40, 41, 42. and 8.17. and left in writing, <hi>Heb.</hi> 5.12. &amp; 6.1, 2. ſo truly, I ſay, are theſe things, the very Commandements of the Lord, 1 <hi>Cor.</hi> 14.37. which at firſt began to be ſpoken by the Lord, <hi>Heb.</hi> 2.3.</p>
+                  <pb n="51" facs="tcp:118732:29"/>
+                  <p>So that the vanity of that taunt (that Laying on of hands is <hi>A new Adminiſtration</hi>) doth too much betray an ignorant, that I ſay not an envious frame of ſpi<g ref="char:EOLhyphen"/>rit.</p>
+                  <p>And as this foundation Principle was laid in <hi>Sion,</hi> by thoſe wiſe maſter-builders in the beginning of the Kingdom of Chriſt, which is to be practiſed and obſerved equally with its fellow principles, Faith, Repentance, Baptiſme, <hi>&amp;c.</hi> to the end of the world:</p>
+                  <p>So was it religiouſly performed with the reſt, in the pureſt Churches, for ſome hundreds of years after the Apoſtles, as is fully and faithfully proved from the pureſt ſtreams of Antiquity, by thoſe eminent ſhining lights in the Church of God, to whom this preſent generation is ſo exceedingly obliged, for their indefatigable labours in vindication of this, and many other pretious truths of Chriſt; namely, Mr. <hi>John Tombs</hi> in his <hi>Anti-paedobaptiſm,</hi>
+                     <note place="margin">Second Part. 23. Sect.</note> and Mr. <hi>Christopher Blackwood,</hi> in his <hi>Soul-ſearching Catechiſm,</hi> pag. 58. to whom I refer you.</p>
+                  <p>Only one teſtimony I ſhall ſet down out of <hi>Euſebius, lib.</hi> 6. <hi>cap.</hi> 42. <hi>Novatus</hi> (ſaith he) <hi>being very like to die, was baptized in the bed where he lay, if it may be termed a baptiſme which he received, for he obtained not after his recovery that which he ſhould have done according to the Canon of the Church, to wit, confirmation by the hands of the Biſhop: In ſo much then as he obtained not that, how came he by the Holy Ghoſt?</hi>
+                  </p>
+                  <p>In which paſſage I obſerve,</p>
+                  <p>Firſt, That in thoſe dayes (namely in the third Century) it was not the cuſtome to baptize Infants, but Profeſſors, that laſie practice of Infant ſprinkling being after wars fomented and advanced by the man of ſin.</p>
+                  <p>Secondly I obſerve, That it could not be termed or judged a lawfull baptiſm, which was Adminiſtred in bed; for how was that a buriall? Nay both the Clergy and Laity oppo<g ref="char:EOLhyphen"/>ſed his admiſſion into the Miniſtery, becauſe they judged that bed-baptiſme unlawfull, <hi>pag.</hi> 118.</p>
+                  <pb n="52" facs="tcp:118732:30"/>
+                  <p>Thirdly, I obſerve, That the Church had received the fourth Principle, as one of their Canons, Lawes, or Rules.</p>
+                  <p>Fourthly, That he is recorded as a diſobedient perſon to all poſterity, for neglecting and omitting that duty of Laying on of hands.</p>
+                  <p>And laſtly, That it was ſo long received as an eternall truth, that the holy Ghoſt was communicated (in his gifts) by Laying on of hands.</p>
+                  <p>So that I hope God will cauſe ſhame to work unfeigned ſorrow in ſuch as have ſo raſhly termed Laying on of hands, <hi>A new adminiſtration.</hi>
+                  </p>
+                  <p>My counſell and advice to all that truly fear the Lord, and deſire a greater meaſure of his Bleſſed Spirit, in the gracious gifts, and flouriſhing fruits thereof, is ſpeedily to haſten to the uſe of all means that the redeemer of our ſouls hath deſig<g ref="char:EOLhyphen"/>ned for his dear Diſciples, his babes, his lambs, which he folds in his boſome, and hath enjoyned all his under-ſhepheards faithfully to feed, as ever they would manifeſt their loves to him their Saviour.</p>
+                  <p>Wherefore I as the unworthyeſt of them all, would gladly ſerve thee, thou eſpouſed ſoul, that haſt devoted thy Virgin affections to the divine embraces of the King of Saints. I beſeech thee (as Chriſts Ambaſſadour) I humbly intreat thee, open the mouth of thy enquiring thirſty ſoul, that as a new<g ref="char:EOLhyphen"/>born-babe thou mayſt receive this growing thriving food, in the rich encreaſes of Gods holy Spirit; 'tis ſincere milk fit<g ref="char:EOLhyphen"/>ted for thy conſtitution. O taſt and ſee how gratious the Lord is! thou doſt not yet know, how he will communi<g ref="char:EOLhyphen"/>cate himſelf to thee through this Ordinance; thou canſt never experience the virtue and goodneſſe of food till thou receive it.</p>
+                  <p>I do not ſo earneſtly invite thee to the meaneſt things of Chriſts houſe, thoſe inferiour gifts which Reprobates may have, and <hi>Simon Magus</hi> would have purchaſed with money, and which carnall Chriſtians ſo much cry out for, the power, the viſible miraculous power, the tongues, the ſigns, the wonders, <hi>&amp;c.</hi> Alas poor ſoul! theſe will not feed thee, the
+<pb n="53" facs="tcp:118732:30"/>wiſeſt Stewards that ever Chriſt employed,
+<note place="margin">1 Cor. 14.22.</note> tell thee (thou panting ſpirit) they are not for thee.</p>
+                  <p>Why, thou art a believer, I prethee what good would tongues or miracles do thee? would they ſatisfie thy gaping thirſty ſoul? did not that excellent Apoſtle earneſtly diſſwade Diſciples from their vain affection of theſe externall gifts? What if I ſhould come with tongues to you (ſaith he 1 <hi>Cor.</hi> 14.6.) would that profit you? I ſhould not be underſtood, <hi>ver.</hi> 7.8. and if you did enjoy your deſire of tongues, ye ſhould but ſpeak to the aire, and be a Barbarian, <hi>verſ.</hi> 9, 11. <hi>Ah brethren</hi> (ſaith he, after long labouring to blunt the edge of their fond deſire of tongues above other gifts) <hi>verſ.</hi> 20. <hi>Be not children in underſtanding;</hi> as if he ſhould ſay, thy deſires are childiſh, in making ſuch a noiſe about this leſſer gift, which will neither edifie thy ſelf nor others, <hi>verſ.</hi> 14, 17.</p>
+                  <p>No, no, thou little one, thou ſuckling,
+<note place="margin">Luk. 10.21.</note> to whom the good pleaſure of thy Father is to reveal the myſteries of his Kingdome, which he conceals from the wiſe and prudent. I ſtand (as one of wiſdomes maidens) to give thee an earneſt in<g ref="char:EOLhyphen"/>vitation, yea to compell thee to come,
+<note place="margin">Prov. 9.3. Luk. 14.23.</note> and ſup with the Lord, upon a daintier diſh then tongues, or any ſuch ex<g ref="char:EOLhyphen"/>ternall things: Upon that hidden manna, the bread that cometh down from Heaven,
+<note place="margin">Joh. 6.50. Cant. 1.3, 4. &amp; 2.4.</note> which whoſoever eats of ſhall never die. I would lead thee and all thy virgin compani<g ref="char:EOLhyphen"/>ons, by the ſavor of his good oyntments, into the inner chambers of the King, yea into his banqueting houſe, where thou ſhalt be preſented with his choiſeſt gifts, <hi>Wiſdome, Know<g ref="char:EOLhyphen"/>ledge, Faith,</hi> &amp;c.</p>
+                  <p>The Wiſdome of God in a Myſtery, not an external ſound,
+<note place="margin">Col. 2.3. Epheſ. 3.17, 18, 19, 20.</note> to ſatisfie a carnall heart, but all the treaſures of wiſdome and knowledge, ſuch as will warm thy inſide, and by degrees ſo root thee and ground thee in love, that at length thou ſhalt be filled with all the fulneſſe of God;
+<note place="margin">Col. 2.2.</note> 
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nto all riches of the full aſsurance of underſtanding, to the acknowledge<g ref="char:EOLhyphen"/>ment of the myſtery of God, and of the Father, and of Chriſt.</hi>
+                  </p>
+                  <pb n="54" facs="tcp:118732:31"/>
+                  <p>Come then,
+<note place="margin">Rev. 22.17.</note> let heaven and earth ring together. <hi>The Spi<g ref="char:EOLhyphen"/>rit and the Bride ſay, Come, and let him that heareth, ſay Come, and let him that is athirſt Come, and whoſoeverwill, let him take of the water of life freely.</hi>
+                  </p>
+                  <p>
+                     <hi>Who ſo is ſimple let him turn in bither,
+<note place="margin">Pov. 9.4, 5.</note> as for him that wanteth un<g ref="char:EOLhyphen"/>derſtanding, ſhe ſaith unto him, Come eat of my bread, and drink of the wine which I have mingled.</hi>
+                  </p>
+                  <p>Ah thou beloved believer! here's a feaſt for a King, ſuch a King as thou art, and thou ſhalt be a welcome gueſt, the more thou ſhalt eat,
+<note place="margin">Cant. 5.1.</note> the better welcome, <hi>Eat O friends, drink abundantly O beloved.</hi>
+                  </p>
+                  <p>I have acquainted thee in what diſhes this ſupper is ſerved, through what pipes theſe beſt gifts are conveyed;
+<note place="margin">Act. 10.44. &amp; 2.38. &amp; 9.17.</note> namely, through the word Preached, through Baptiſm, through Lay<g ref="char:EOLhyphen"/>ing on of hands, and other Ordinances.</p>
+                  <p>Thy obedience will diſpell the clouds of thy Ignorance. <hi>If any man will do his will, he ſhall know of the dectrine whether it be of God or whether I ſpeak of my ſelf.
+<note place="margin">Joh. 7.17. Rom. 2.13.</note> For not the hearers, but the doers of the Law are justified.</hi>
+                  </p>
+                  <p>Therefore look upon them as the enemies of thy ſoul, that tell thee thou muſt learn the fourth Principle but not practiſe it.</p>
+                  <p>Thy dear Redeemer learns thee another leſſon; <hi>If ye know theſe things,
+<note place="margin">Joh. 13.17.</note> happy are ye if ye do them.</hi> Do them there<g ref="char:EOLhyphen"/>fore, and wait upon God for what he pleaſeth to give, and when.</p>
+                  <p>The ſucking babe is not alwayes ſenſible of its grouth, in drawing the breaſts; Poſſibly God may give thee an Eunuch's portion ſpeedily, poſſibly by inſenſible degrees.</p>
+                  <p>The Chriſtian <hi>Hebrews</hi> had been in the uſe of this milk (this fourth Principle and in the other five) a conſiderable time,
+<note place="margin">Heb. 5.12, 13.</note> before they had any eminent gift; wherefore let not any pretious ſoul in this practiſe either ſay God is a hard maſter, or queſtion his own condition, if gifts do not preſently or eminently flow as they deſire. O <hi>Auguſtine!</hi> he is come, he is come, warmed the Martyr within, when the flames were moſt ſcorching without. Poſſibly God reſerves his gifts till thou haſt moſt need of them. Some ſooner, ſome later.</p>
+                  <pb n="55" facs="tcp:118732:31"/>
+                  <p>If any ſhall ſay the <hi>Hebrews</hi> were not in the practiſe of this Doctrine of Laying on of hands, becauſe they were not eminent in gifts.</p>
+                  <p>I muſt tell ſuch perſons that they flatly contradict the Scriptures which teſſifie,
+<note place="margin">Act. 2.42. Heb. 5.12.13.</note> That they continued ſtedfaſtly in the Apoſtles Doctrine; yea that they had been taught it, and did uſe it.</p>
+                  <p>And to ſay, That they were taught Baptiſme, and did pra<g ref="char:EOLhyphen"/>ctiſe it; and were taught, Laying on of hands, but did not practiſe it; is ſuch a ſign of a ſhallow capacity as deſerves no anſwer but ſilence and pity.</p>
+                  <p>Wherefore I invite thee again thou troubled tempted ſoul, whom the enemy keeps back with ſcruples, it is thy Lord cals for thee; <hi>Behold I have prepared my dinner,
+<note place="margin">Mat. 22.4.</note> my oxen and my fatlings are killed, and all things are ready, come unto the marriage.</hi>
+                  </p>
+                  <p>Take heed thou tender Lamb of making light of theſe in<g ref="char:EOLhyphen"/>vitations; beware of delaies, they are very dangerous, as thou tendereſt the good of thy ſoul look not upon thy livings or livelihood, but eſpecially thy relations;
+<note place="margin">Luk 14.18, 19, 20. Ch. 9.59, 61. Ch. 14.27.</note> no not ſo much as bury thy dead, or take leave of them that are at home. <hi>He that loveth father and mother more then me, is not wor<g ref="char:EOLhyphen"/>thy of me. And whoſoever doth not bear his croſſe and come after me, cannot be my diſciple.</hi>
+                  </p>
+                  <p>How many poor ſouls have I known, ſome at the very door of Baptiſme, and while they have delayed, ſlumbred, and loitered, the enemy came and ſowed tares,
+<note place="margin">Mat. 13.25.</note> by ſome de<g ref="char:EOLhyphen"/>luded Quaker, or otherwiſe, ſlighting Chriſts Ordinances.</p>
+                  <p>
+                     <hi>I am come in my Fathers name and ye receive me not,
+<note place="margin">Joh. 5.43.</note> if another come in his own name,</hi> (crying up his light within, in the ſecret chambers, <hi>Mat.</hi> 24.26.) <hi>him ye will receive.</hi>
+                  </p>
+                  <p>Some have been ready to fall upon their knees (for con<g ref="char:EOLhyphen"/>venience ſake) to have hands laid upon them, and though God hath had mercy upon any that have afterwards obeyed; yet others have been left to ſtrong deluſions, to believe,
+<note place="margin">2 Theſſ. 2.11.</note> write and practiſe lies. <hi>If any man draw back,
+<note place="margin">Heb. 10.38.</note> my ſoul ſhall have no pleaſure in him.</hi> And others who have ſlighted the fellow<g ref="char:EOLhyphen"/>ſhip of the Saints, neglecting Chriſt invitation; I have
+<pb n="56" facs="tcp:118732:32"/>ſeen death ſurpriſe them in their diſobedience.
+<note place="margin">Luk. 14.24.</note> 
+                     <hi>For I ſay unto you that none of thoſe men which were bidden, ſhall taſte of my Supper.</hi> And is not that ſad, thou poor enquiring ſoul?</p>
+                  <p>But in the laſt place,</p>
+                  <p>If God have drawn out thy heart, by the ſmell of Chriſts garments; I ſay Chriſts garments, thoſe outward things, which proud ones paſſe by, and deluded ſouls diſdain; Which yet the Spirit ſayes,
+<note place="margin">Pſal. 45.8.</note> 
+                     <hi>Come out of the Ivory Palaces, caſting forth the fragrant odours, and cordiall perfumes of myrrhe, Aloes and Caſſia.</hi>
+                  </p>
+                  <p>If theſe have made glad thy gracious heart, whiles thy Queen-like virgin-ſoul hath adorned her ſelf with the choice embroyderies of thy beloved, not contenting thy ſelf wich a fancied light in thy conſcience, but approving thy ſelf <hi>the Kings daughter</hi> indeed,
+<note place="margin">Verſ. 13.</note> legitimately deſcen<g ref="char:EOLhyphen"/>ded, <hi>all glorious within, (and) thy clothing of wrought gold;</hi> That is, if thou have yeelded thine obedience to thoſe principles, and other Ordinances
+<note n="*" place="margin">Zech. 4.12.</note>, through which the golden gifts and graces of his Spirit flow: Let no man de<g ref="char:EOLhyphen"/>ceive thee with vain words, giving thee leave to learn, but not to practiſe thy Principles.</p>
+                  <p>The Lord make my counſell acceptable to thee, which is, <hi>To live in the perpetuall exerciſe or practiſe of all thy Prin<g ref="char:EOLhyphen"/>ciples.</hi>
+                  </p>
+                  <p>Yet miſtake not, I would not have thee ſet them up for Idols,
+<note place="margin">Judg. 17.13.</note> and live upon them, to ſay, <hi>Now I know that the Lord will doe me good, ſeeing I have got a Levite to my Prieſt.</hi>
+                  </p>
+                  <p>Take heed of ſo practiſing any of thy Principles. Now I have done enough once to believe (a <hi>Magus</hi> may do ſo) or repent;
+<note place="margin">Act. 8.13.</note> 
+                     <hi>Judas</hi> did it; or be baptized, ſo was <hi>Ananias</hi> and <hi>Sapphira.</hi>
+                  </p>
+                  <p>In this reſpect,
+<note place="margin">Phil. 3.13, 14.</note> thou muſt forget what is behind, and preſſe forward.</p>
+                  <p>In this reſpect,
+<note place="margin">Heb. 6.1.</note> thou muſt leave thy Principles, and go on to perfection.</p>
+                  <pb n="57" facs="tcp:118732:32"/>
+                  <p>But how muſt thou leave thy Principles? What, never to look at them any more? No ſuch matter.
+<note place="margin">Mat. 19.5.</note> But as thou muſt <hi>leave</hi> thy father and mother and cleave to thy wife, ſo thou muſt leave thy Principles.</p>
+                  <p>Whoſoever ſhall teach thee (in a marryed ſtate) to be diſobedient to, or utterly to leave and forſake thy Parents; I ſhall bequeath to him the Legacie fit for a blind Phariſee, <hi>Mat.</hi> 15.6.</p>
+                  <p>And the like portion to him that ſhall counſell thee to learn thy Six Principles, but not to practiſe them; or at any time to leave them, ſo.</p>
+                  <p>As for the firſt Principle, which is Repentance,</p>
+                  <p>Why thou poor ſoul, as oft as thou calleſt for thy dayly bread, ſo often thou muſt practiſe thy Repentance. For thou doſt dayly contract new flaines, therefore thou muſt dayly go to that ſountain
+<note n="*" place="margin">Zech. 13.1. Rev. 7.14.</note>, to waſh thy robes, and make them white in the bloud of the Lamb. Crying, Father which art in heaven, forgive my treſpaſſes, as I forgive others; that is, manifeſt forgiveneſſe, ſeal my pardon, ſatisfie my ſoul, that all my ſins are imputed unto Chriſt, and his righte-ouſneſſe to me.</p>
+                  <p>And can thy ſoul live a day without this ſatisfaction, without this aſſurance? The Lord would have thee aske to purpoſe; not barely pardon, but aſſurance that thou art pardoned; <hi>Aske and ye may receive,
+<note place="margin">Joh. 16.24.</note> that your joy may be full.</hi> And thus thou muſt not leave, but practiſe Re<g ref="char:EOLhyphen"/>pentance.</p>
+                  <p>Secondly, for Faith;</p>
+                  <p>If ever thou didſt receive it, embrace it,
+<note place="margin">Rom. 1.5.</note> and yeeld obe<g ref="char:EOLhyphen"/>dience to it, be carefull conſtantly to live in the exerciſe of it. Why thou no longer liveſt then thou believeſt;
+<note place="margin">Verſ. 17.</note> there<g ref="char:EOLhyphen"/>fore go thy wayes on, from faith to faith, in the mounting ſteps of <hi>Abrahams</hi> faith, as one of the houſhold of faith.
+<note place="margin">Rom. 4.12. Gal. 6.10.</note> Take heed of <hi>Hymeneus</hi> ſin
+<note n="*" place="margin">1 Tim. 1.19.</note>, and let <hi>Pauls</hi> exerciſe be thine, <hi>Act.</hi> 24.16. O beware of men that will yeeld thou ſhouldeſt learn it, but not practiſe it.</p>
+                  <pb n="58" facs="tcp:118732:33"/>
+                  <p>As for Baptiſme;</p>
+                  <p>If ever thou was buried with Chriſt in it,
+<note place="margin">Rom. 6.4.</note> one buriall will ſerve the turn, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, he that is once baptized, or waſhed, needeth not ſave to waſh his feet
+<note n="*" place="margin">Joh. 13.10. compared with 2 King. 5.10. &amp; 14. &amp; Heb. 10.22.</note>; and yet there is dayly need of Mortification, <hi>Col.</hi> 3.5. this thou muſt be practiſing all the dayes of thy Pilgrimage, thou doſt never learn it till thou practiſe it; There's dayly need of a holy walk in newneſſe of life, <hi>Rom.</hi> 6.4. Wherefore thou Baptized Believer, whatever men ſay, be thou dayly in the practiſe of this Prin<g ref="char:EOLhyphen"/>ciple.</p>
+                  <p>A chaſt Virgin often reſiſted Satans temptation, with this weapon, <hi>Chriſtiana ſum,</hi> I am a Chriſtian. As oft as the enemy makes his appoaches againſt thee, tell him thou art eſpouſed to Chriſt, and haſt (not in thy childiſh infant ſtate, when perhaps thou waſt aſleep) made a bold manly profeſſion of thy ſubjection to him in this Ordinance. What ſhould I fear? if truth ſpeak truth, <hi>Mark.</hi> 16.16. I did (I do) be<g ref="char:EOLhyphen"/>lieve. I was Baptized, I ſhall be ſaved.</p>
+                  <p>And for this fourth Principle.</p>
+                  <p>Be ſure thou practiſe it, as ever thou deſireſt a larger mea<g ref="char:EOLhyphen"/>ſure of the Spirit, for the communicating of which it is ap<g ref="char:EOLhyphen"/>propriated.</p>
+                  <p>If God do immediatly confer his gifts in, or ſoon after the adminiſtration, be carefull to improve them to his glory, put them not under a bed of eaſe, or a buſhell of gain. If he deal with thee as with thoſe <hi>Hebrew</hi> babes, keep thee long in thy childhood, without ſome eminent manly gift, yet pra<g ref="char:EOLhyphen"/>ctiſe this Principle, in the exerciſes of patience; waiting for a return to thoſe prayers, that did accompany this Ordi<g ref="char:EOLhyphen"/>nance, and indeed is an eſſentiall part of it, without which, neither this nor any thing elſe is or can be ſanctifyed,
+<note place="margin">Luk. 11.13.</note> and upon which pretious promiſes are entail'd. Breaking bread, is no ordinance of Chriſt,
+<note place="margin">1 Cor. 12.11.</note> without prayer and praiſe. Re<g ref="char:EOLhyphen"/>member the Spirits method, who is a free Agent, <hi>Dividing to every man ſeverally as he will,</hi> what, how, and when he pleaſeth.</p>
+                  <pb n="59" facs="tcp:118732:33"/>
+                  <p>Some ſeed in ſome ſort of ground, will ſpring up ſpeedily. Though I do not ſay that is either the beſt ſeed, or the beſt ſoil, ſee <hi>Mat.</hi> 13.5. And ſuch is the gift of tongnes, to ſuch as greedily gape after it, and pettiſhly caſt away the ordinance of hands, if they may not have it. That, or nothing will pleaſe their palate.</p>
+                  <p>But the Spirit hath another ſort of ſeeds, which may not ſo ſuddainly appear, but poſſibly lie all winter under the clods, and yet the ground very good, and the ſeed lying ſo long in it, makes it better; and although it make not ſuch ſpeed in ſpringing, yet it is carefully kept,
+<note place="margin">Luk. 8.15.</note> 
+                     <hi>and brings forth fruit with patience.</hi>
+                  </p>
+                  <p>At the firſt practiſe of this Principle, the ſeed is ſown, <hi>Iſa.</hi> 45.19. and in a ſutable ſeaſon it will ſpring and ap<g ref="char:EOLhyphen"/>pear. <hi>Be patient therefore, brethren, unto the coming of the Lord:
+<note place="margin">Jam. 5.7.</note> Behold, the Husbandman waiteth for the pretious fruit of the earth, and hath long patience for it, untill be receive the early and latter rain.</hi> We are at a great loſſe for want of waiting for returns of duties.</p>
+                  <p>Having therefore yeelded obedience to this Ordinance, let no man perſwade thee (thou longing ſoul) to caſt off the exerciſes of a patient waiting for a return; but take up thy reſolution with the Prophet,
+<note place="margin">Pſal. 85.8.</note> 
+                     <hi>I will hear what God the Lord will ſpeak: for he will ſpeak peace unto his people, and to his Saints: but let them not turn again to folly.</hi> If God have but beſtowed ſo much wiſdome upon thine obedience, as to wait with faith and patience, for fuller manifeſtations of himſelf; then I am ſure thou haſt not found this ordinance empty.</p>
+                  <p>The fifth Principle,</p>
+                  <p>If thou be truly ſpirituall, muſt be thy dayly practiſe. It is a duty incumbent upon thee, and beares a date as antient as thy viſible profeſſion and reall ſubjection to Chriſts com<g ref="char:EOLhyphen"/>mands.
+<note place="margin">Rom. 6.4.</note> For in thy buriall with thy Redeemer in the Bap<g ref="char:EOLhyphen"/>tiſmall ſountain,
+<note place="margin">2 Cor. 5.17. Heb. 10.20.</note> thou didſt begin thy caſe in the ſimilitude of his reſurrection, with an engagement ſo to run, by the rules of the new creature, in that new and living way, all the dayes of thy life. Thou waſt a miſerable polluted creature,
+<note place="margin">Epheſ. 2.1.</note>
+                     <pb n="60" facs="tcp:118732:34"/>before he met with thee dead in treſpaſſes and fins, but he hath breathed upon thee by his quickning Spirit, and there<g ref="char:EOLhyphen"/>fore in the power of the ſame Spirit dayly thou muſt practiſe the reſurrection.
+<note place="margin">Rom. 3.11.</note> 
+                     <hi>If the Spirit of him that raiſed up Jeſus from the death dwell in you; he that raiſed up Chriſt from the dead, ſhall alſo quicken your mortall bodies, by his Spirit that dwelleth in you.</hi> Wherefore ſtop thy ears to any other Spirit, that would dull the edge of thy devotion in the practiſe of the reſurrection. Live at preſent in the power of it, and make uſe of all means with the Apoſtle.
+<note place="margin">Phil. 3.11.</note> 
+                     <hi>If by any means I might attain unto the refur<g ref="char:EOLhyphen"/>rection of the dead.</hi> Thy God will be found in the uſe of his own means.
+<note place="margin">Col. 3.1.</note> 
+                     <hi>If ye then be riſen with Chriſt, ſeek thoſe things which are above.</hi>
+                  </p>
+                  <p>And Laſtly,</p>
+                  <p>Let the eternall judgment be thy exerciſe continually. Thou haſt no other way in this world, to avoid the horrour and terrour of it, and this way (whatever men talke, to keep thee in idleneſſe) thou mayeſt eſcape it.
+<note place="margin">1 Cor. 11.31.</note> 
+                     <hi>For if we would judge curſelves, we ſhould not be judged.</hi>
+                  </p>
+                  <p>Cheer up thy drooping ſpirit, take courage and reſolution, and be as lively as poſſible, in the practiſe and exerciſe of all thy Principles: The more lively, the more like Chriſt, whoſe meat and drink was to do the will of his father; and the more like Chriſt, the more boldneſſe thou ſhalt have in the day of judgement
+<note n="*" place="margin">1 Joh. 4.17.</note>.</p>
+                  <p>Wherefore labour diligently to be found in all the will of thy God. Let no man ſpoil thee of any truth, but eſpe<g ref="char:EOLhyphen"/>cially of one of thy Foundation principles. What though this milk be never ſo mean, 'tis the more like a crucified Chriſt. I confeſſe Laying on of hands is but a ſimple ſervice,
+<note place="margin">Rom. 6.17.</note> no more is its companion (Baptiſme) but tis one of the firſt words of thy dear Redeemer, a part of that form of Doctrine which he delivered and hath owned,
+<note place="margin">Act. 8. &amp; 19.</note> and by ſigns and wonders confirmed, which he would not ſo fignally have ratified, had it not been a part of his owne ſervice.</p>
+                  <pb n="61" facs="tcp:118732:34"/>
+                  <p>Let not mens conceits of the ceſſation of this holy Ordi<g ref="char:EOLhyphen"/>nance, deprive thy pretious ſoul of thoſe choice gifts which ſtream through it, which thy panting ſpirit (if thou be truly thirſty ſoul) cannot but find as much need of, as thy fellow ſaints, ſixteen hundred years ſince.</p>
+                  <p>The promiſe runs as ſtrenuouſly to this age, and the Saints in it, though we be thoſe afar off, as it did to them that were nigh
+<note n="*" place="margin">Act. 2.39.</note>: For he that made promiſe remains faith<g ref="char:EOLhyphen"/>full; and what ever men dare affirme to the contrary, yet he hath ſaid, that <hi>It is eaſier for heaven and earth to paſſe,
+<note place="margin">Luk. 16.17.</note> then one tittle of the Law to fail.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
